@@ -2,7 +2,7 @@
   <FileCoherence>1</FileCoherence>
   <Version>3.16.2</Version>
   <charset>utf-8</charset>
-  <ApplicationBuildDateTime>Mar  8 2021 08:00:57</ApplicationBuildDateTime>
+  <ApplicationBuildDateTime>Mar  8 2021 07:58:58</ApplicationBuildDateTime>
   <FileName>lab7.cmbl</FileName>
   <FileIDString>2/24/2022 12:41:26Your name here1004129583</FileIDString>
   <CreatorOS>2</CreatorOS>
@@ -20,13 +20,13 @@
   <GraphMatchNumSections>0</GraphMatchNumSections>
   <Stationery>0</Stationery>
   <CreationDateTime>2/24/2022 12:41:26</CreationDateTime>
-  <ModifiedDateTime>2/24/2022 19:03:30</ModifiedDateTime>
-  <PageBounds>0 0 19.9583333333 10.1458333333</PageBounds>
-  <ScreenResolution>0 0 1919 1079</ScreenResolution>
+  <ModifiedDateTime>3/3/2022 15:25:09</ModifiedDateTime>
+  <PageBounds>0 0 15.6041666667 9</PageBounds>
+  <ScreenResolution>0 0 2999 1999</ScreenResolution>
   <MathType>0</MathType>
   <AllowOptionsDialogs>1</AllowOptionsDialogs>
   <AllowAutoCurveFit>1</AllowAutoCurveFit>
-  <ReplayWindowPosition>0 54 91 328 245 1</ReplayWindowPosition>
+  <ReplayWindowPosition>0 84 168 626 461 1</ReplayWindowPosition>
   <ReplayWindowSpeed>1</ReplayWindowSpeed>
   <ReplayWindowRepeat>0</ReplayWindowRepeat>
   <SensorConflictEnabled>1</SensorConflictEnabled>
@@ -43,6 +43,196 @@
   <MathConstantUnits></MathConstantUnits>
   <MathConstantName>V0</MathConstantName>
   <Page>
+    <ID>412 </ID>
+    <BroadcastTo>0 </BroadcastTo>
+    <Visible>1</Visible>
+    <PageTitle>Lab 7- RC Circuits</PageTitle>
+    <PageColor>0xcccc 0xcccc 0xffff| 0xffff 0x0</PageColor>
+    <PageDisplayPageInfo>0 </PageDisplayPageInfo>
+    <PagePageInfo></PagePageInfo>
+    <PageGraphPaper>0 </PageGraphPaper>
+    <PageGraphPaperLineSpacing>0.25 </PageGraphPaperLineSpacing>
+    <PageGraphPaperLineColor>0x8484 0x7070 0xffff| 0xffff 0x0</PageGraphPaperLineColor>
+    <PageReplayWindowPosition>0 84 168 626 461</PageReplayWindowPosition>
+    <PageText>
+      <ID>413 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>0.00520833333333 0 5.46875 3.9375 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>-2.015625 -1.484375</SubordinateOffset>
+      <BackgroundTransparent>0</BackgroundTransparent>
+      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0x29</BackgroundColor>
+      <AddNewData>0</AddNewData>
+      <Locked>0</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+        <Size> 12 </Size>
+        <Justification> 0 </Justification>
+        <VerticalJustification> 0 </VerticalJustification>
+        <Styles> 0 0 0 0 0 0 </Styles>
+        <Family> 3 </Family>
+        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+        <Name>Arial</Name>
+        <Rotation>0</Rotation>
+      </Font>
+      <Font>
+        <Size> 48 </Size>
+        <Justification> 0 </Justification>
+        <VerticalJustification> 0 </VerticalJustification>
+        <Styles> 0 0 0 0 0 0 </Styles>
+        <Family> 3 </Family>
+        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+        <Name>Arial</Name>
+        <Rotation>0</Rotation>
+      </Font>
+      <TextText>Lab 7 - RC Circuits
+
+Matthew Hovis
+Justin Anderson
+Rowan Vanhoof</TextText>
+      <StyleRun>
+        <Start> 0 </Start>
+        <End> 64 </End>
+        <Font>
+          <Size> 48 </Size>
+          <Justification> 0 </Justification>
+          <VerticalJustification> 0 </VerticalJustification>
+          <Styles> 0 0 0 0 0 0 </Styles>
+          <Family> 3 </Family>
+          <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+          <Name>Arial</Name>
+          <Rotation>0</Rotation>
+        </Font>
+      </StyleRun>
+      <TextMakeAllTextVisible> 1 </TextMakeAllTextVisible>
+    </PageText>
+    <PageText>
+      <ID>414 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>5.478125 0.0104166666667 12.5302083333 3.95833333333 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>3.578125 -1.89583333333</SubordinateOffset>
+      <BackgroundTransparent>0</BackgroundTransparent>
+      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0x29</BackgroundColor>
+      <AddNewData>0</AddNewData>
+      <Locked>0</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+        <Size> 12 </Size>
+        <Justification> 0 </Justification>
+        <VerticalJustification> 0 </VerticalJustification>
+        <Styles> 0 0 0 0 0 0 </Styles>
+        <Family> 3 </Family>
+        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+        <Name>Arial</Name>
+        <Rotation>0</Rotation>
+      </Font>
+      <TextText>The goal of this lab is to understand data linearization given a continous non-linear curve. We performed this procedure on real world data we collected to better understand data linearization and the relationship between capicitor charge, time, and the time constant. 
+
+Since the charge time of a capacitor is observed to be a logarithmic function, we expected to see a linear relationship when performing the natural logarithm on our data as described by the formulas below:
+
+Charge: 
+	Ln(V_0-V/V_0)
+Discharge: 
+	Ln(V/V_0)
+
+Given that using the above formulas result in a line, we expect the slope to be about 1, which is our time constant.
+
+</TextText>
+      <StyleRun>
+        <Start> 0 </Start>
+        <End> 476 </End>
+        <Font>
+          <Size> 16 </Size>
+          <Justification> 0 </Justification>
+          <VerticalJustification> 0 </VerticalJustification>
+          <Styles> 0 0 0 0 0 0 </Styles>
+          <Family> 3 </Family>
+          <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+          <Name>Arial</Name>
+          <Rotation>0</Rotation>
+        </Font>
+      </StyleRun>
+      <StyleRun>
+        <Start> 476 </Start>
+        <End> 478 </End>
+        <Font>
+          <Size> 12 </Size>
+          <Justification> 0 </Justification>
+          <VerticalJustification> 0 </VerticalJustification>
+          <Styles> 0 0 0 0 0 0 </Styles>
+          <Family> 3 </Family>
+          <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+          <Name>Arial</Name>
+          <Rotation>0</Rotation>
+        </Font>
+      </StyleRun>
+      <StyleRun>
+        <Start> 478 </Start>
+        <End> 526 </End>
+        <Font>
+          <Size> 20 </Size>
+          <Justification> 0 </Justification>
+          <VerticalJustification> 0 </VerticalJustification>
+          <Styles> 0 0 0 0 0 0 </Styles>
+          <Family> 3 </Family>
+          <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+          <Name>Arial</Name>
+          <Rotation>0</Rotation>
+        </Font>
+      </StyleRun>
+      <StyleRun>
+        <Start> 526 </Start>
+        <End> 642 </End>
+        <Font>
+          <Size> 16 </Size>
+          <Justification> 0 </Justification>
+          <VerticalJustification> 0 </VerticalJustification>
+          <Styles> 0 0 0 0 0 0 </Styles>
+          <Family> 3 </Family>
+          <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+          <Name>Arial</Name>
+          <Rotation>0</Rotation>
+        </Font>
+      </StyleRun>
+      <StyleRun>
+        <Start> 642 </Start>
+        <End> 643 </End>
+        <Font>
+          <Size> 20 </Size>
+          <Justification> 0 </Justification>
+          <VerticalJustification> 0 </VerticalJustification>
+          <Styles> 0 0 0 0 0 0 </Styles>
+          <Family> 3 </Family>
+          <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+          <Name>Arial</Name>
+          <Rotation>0</Rotation>
+        </Font>
+      </StyleRun>
+      <StyleRun>
+        <Start> 643 </Start>
+        <End> 644 </End>
+        <Font>
+          <Size> 8 </Size>
+          <Justification> 0 </Justification>
+          <VerticalJustification> 0 </VerticalJustification>
+          <Styles> 0 0 0 0 0 0 </Styles>
+          <Family> 3 </Family>
+          <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+          <Name>Arial</Name>
+          <Rotation>0</Rotation>
+        </Font>
+      </StyleRun>
+      <TextMakeAllTextVisible> 1 </TextMakeAllTextVisible>
+    </PageText>
+  </Page>
+  <Page>
     <ID>100 </ID>
     <BroadcastTo>0 </BroadcastTo>
     <Visible>0</Visible>
@@ -53,12 +243,12 @@
     <PageGraphPaper>0 </PageGraphPaper>
     <PageGraphPaperLineSpacing>0.25 </PageGraphPaperLineSpacing>
     <PageGraphPaperLineColor>0x8484 0x7070 0xffff| 0xffff 0xffffffff</PageGraphPaperLineColor>
-    <PageReplayWindowPosition>0 54 91 328 245</PageReplayWindowPosition>
+    <PageReplayWindowPosition>0 84 168 626 461</PageReplayWindowPosition>
     <PageGraphCartesian>
       <ID>106 </ID>
       <BroadcastTo>2 230 233 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>3.93402891855 3.24361164352 14.579506542 10.1373784722 </Bounds>
+      <Bounds>3.07577 2.87729000001 11.3988 8.99250000001 </Bounds>
       <SubordinateToID>0</SubordinateToID>
       <SubordinateOffset>0 0</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -131,9 +321,9 @@
       <ID>230 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>11.421739012 6.8956381713 13.5795646956 8.0092319213 </Bounds>
+      <Bounds>8.92993999999 6.11687000002 11.0195156836 7.20046375002 </Bounds>
       <SubordinateToID>106</SubordinateToID>
-      <SubordinateOffset>7.48771009344 3.65202652778</SubordinateOffset>
+      <SubordinateOffset>5.85417 3.23958000001</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
       <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
       <AddNewData>0</AddNewData>
@@ -174,9 +364,9 @@
       <ID>233 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>11.5216575167 4.35331216435 13.3720247042 5.65440591435 </Bounds>
+      <Bounds>9.00805999999 3.86166500001 10.7901771875 5.13275875001 </Bounds>
       <SubordinateToID>106</SubordinateToID>
-      <SubordinateOffset>7.58762859811 1.10970052083</SubordinateOffset>
+      <SubordinateOffset>5.93228999999 0.984375</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
       <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
       <AddNewData>0</AddNewData>
@@ -217,7 +407,7 @@
       <ID>107 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>0.00719459279037 0.00634114583333 3.91723514018 10.1394865509 </Bounds>
+      <Bounds>0.005625 0.00562500000002 3.06264 8.99437000001 </Bounds>
       <SubordinateToID>0</SubordinateToID>
       <SubordinateOffset>0 0</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -237,14 +427,9 @@
         <Name>Arial</Name>
         <Rotation>0</Rotation>
       </Font>
-      <TableColumn> 155 1.02323097463 </TableColumn>
-      <TableColumn> 157 1.02323097463 </TableColumn>
-      <TableColumn> 162 1.02323097463 </TableColumn>
-      <TableColumn> 288 1.02323097463 </TableColumn>
-      <TableColumn> 339 1.02323097463 </TableColumn>
-      <TableColumn> 347 1.02323097463 </TableColumn>
-      <TableColumn> 398 1.02323097463 </TableColumn>
-      <TableColumn> 406 1.02323097463 </TableColumn>
+      <TableColumn> 155 0.799999999999 </TableColumn>
+      <TableColumn> 157 0.799999999999 </TableColumn>
+      <TableColumn> 162 0.799999999999 </TableColumn>
       <StartIndex> 0 </StartIndex>
       <DisplayBlackAndWhite> 0 </DisplayBlackAndWhite>
     </PageTable>
@@ -260,47 +445,12 @@
     <PageGraphPaper>0 </PageGraphPaper>
     <PageGraphPaperLineSpacing>0.25 </PageGraphPaperLineSpacing>
     <PageGraphPaperLineColor>0x8484 0x7070 0xffff| 0xffff 0xffffffff</PageGraphPaperLineColor>
-    <PageReplayWindowPosition>0 54 91 328 245</PageReplayWindowPosition>
-    <PageTable>
-      <ID>139 </ID>
-      <BroadcastTo>0 </BroadcastTo>
-      <Visible>1</Visible>
-      <Bounds>0.00719459279037 0.00634114583333 3.91723514018 10.1394865509 </Bounds>
-      <SubordinateToID>0</SubordinateToID>
-      <SubordinateOffset>0 0</SubordinateOffset>
-      <BackgroundTransparent>0</BackgroundTransparent>
-      <BackgroundColor>0xdada 0xdada 0xdada| 0xffff 0xffffffff</BackgroundColor>
-      <AddNewData>1</AddNewData>
-      <Locked>0</Locked>
-      <AutoCreated>0</AutoCreated>
-      <GraphLinkedIDs>0 </GraphLinkedIDs>
-      <YLinkedIDs>0 </YLinkedIDs>
-      <Font>
-        <Size> 12 </Size>
-        <Justification> 2 </Justification>
-        <VerticalJustification> 0 </VerticalJustification>
-        <Styles> 0 0 0 0 0 0 </Styles>
-        <Family> 3 </Family>
-        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
-        <Name>Arial</Name>
-        <Rotation>0</Rotation>
-      </Font>
-      <TableColumn> 150 1.02323097463 </TableColumn>
-      <TableColumn> 152 1.02323097463 </TableColumn>
-      <TableColumn> 159 1.02323097463 </TableColumn>
-      <TableColumn> 288 1.02323097463 </TableColumn>
-      <TableColumn> 339 1.02323097463 </TableColumn>
-      <TableColumn> 347 1.02323097463 </TableColumn>
-      <TableColumn> 398 1.02323097463 </TableColumn>
-      <TableColumn> 406 1.02323097463 </TableColumn>
-      <StartIndex> 6 </StartIndex>
-      <DisplayBlackAndWhite> 0 </DisplayBlackAndWhite>
-    </PageTable>
+    <PageReplayWindowPosition>0 84 168 626 461</PageReplayWindowPosition>
     <PageGraphCartesian>
       <ID>137 </ID>
       <BroadcastTo>2 228 239 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>3.93402891855 3.63112611111 14.6527954606 10.1373784722 </Bounds>
+      <Bounds>3.07577 3.22104000001 11.4561 8.99250000001 </Bounds>
       <SubordinateToID>0</SubordinateToID>
       <SubordinateOffset>0 0</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -373,9 +523,9 @@
       <ID>239 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>11.6082612283 4.38854075231 13.6113994119 5.68963450231 </Bounds>
+      <Bounds>9.07577 3.89291500001 11.0106581836 5.16400875001 </Bounds>
       <SubordinateToID>137</SubordinateToID>
-      <SubordinateOffset>7.67423230973 0.757414641204</SubordinateOffset>
+      <SubordinateOffset>6 0.671875000002</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
       <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
       <AddNewData>0</AddNewData>
@@ -416,9 +566,9 @@
       <ID>228 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>11.5016789319 7.4416869213 13.6715041272 8.5552806713 </Bounds>
+      <Bounds>8.99243999999 6.60125000002 11.0940151953 7.68484375002 </Bounds>
       <SubordinateToID>137</SubordinateToID>
-      <SubordinateOffset>7.56765001333 3.81056081019</SubordinateOffset>
+      <SubordinateOffset>5.91666999999 3.38021000002</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
       <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
       <AddNewData>0</AddNewData>
@@ -455,11 +605,41 @@
       <ManualCurveFitWeightColumnId>4294967295</ManualCurveFitWeightColumnId>
       <CurveFitCorrelation>-0.99885720029</CurveFitCorrelation>
     </PageHelperDataCurveFit>
+    <PageTable>
+      <ID>139 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>0.005625 0.00562500000002 3.06264 8.99437000001 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0 0</SubordinateOffset>
+      <BackgroundTransparent>0</BackgroundTransparent>
+      <BackgroundColor>0xdada 0xdada 0xdada| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>1</AddNewData>
+      <Locked>0</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+        <Size> 12 </Size>
+        <Justification> 2 </Justification>
+        <VerticalJustification> 0 </VerticalJustification>
+        <Styles> 0 0 0 0 0 0 </Styles>
+        <Family> 3 </Family>
+        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+        <Name>Arial</Name>
+        <Rotation>0</Rotation>
+      </Font>
+      <TableColumn> 150 0.799999999999 </TableColumn>
+      <TableColumn> 152 0.799999999999 </TableColumn>
+      <TableColumn> 159 0.799999999999 </TableColumn>
+      <StartIndex> 6 </StartIndex>
+      <DisplayBlackAndWhite> 0 </DisplayBlackAndWhite>
+    </PageTable>
   </Page>
   <Page>
     <ID>222 </ID>
     <BroadcastTo>0 </BroadcastTo>
-    <Visible>1</Visible>
+    <Visible>0</Visible>
     <PageTitle>Capacitor</PageTitle>
     <PageColor>0xcccc 0xcccc 0xffff| 0xffff 0xffffffff</PageColor>
     <PageDisplayPageInfo>0 </PageDisplayPageInfo>
@@ -467,12 +647,12 @@
     <PageGraphPaper>0 </PageGraphPaper>
     <PageGraphPaperLineSpacing>0.25 </PageGraphPaperLineSpacing>
     <PageGraphPaperLineColor>0x8484 0x7070 0xffff| 0xffff 0xffffffff</PageGraphPaperLineColor>
-    <PageReplayWindowPosition>0 54 91 328 245</PageReplayWindowPosition>
+    <PageReplayWindowPosition>0 84 168 626 461</PageReplayWindowPosition>
     <PageTable>
       <ID>223 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>2.0625 0.376489097222 9.33034131729 3.2212962963 </Bounds>
+      <Bounds>1.61253914405 0.333969794662 7.29480756437 2.85749486654 </Bounds>
       <SubordinateToID>0</SubordinateToID>
       <SubordinateOffset>-1.63541666667 -0.854166666667</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -492,17 +672,17 @@
         <Name>Arial</Name>
         <Rotation>0</Rotation>
       </Font>
-      <TableColumn> 288 1.02323097463 </TableColumn>
-      <TableColumn> 226 1.02323097463 </TableColumn>
-      <TableColumn> 339 1.02323097463 </TableColumn>
-      <TableColumn> 347 1.02323097463 </TableColumn>
-      <TableColumn> 398 1.02323097463 </TableColumn>
-      <TableColumn> 406 1.02323097463 </TableColumn>
+      <TableColumn> 288 0.799999999999 </TableColumn>
+      <TableColumn> 226 0.799999999999 </TableColumn>
+      <TableColumn> 339 0.799999999999 </TableColumn>
+      <TableColumn> 347 0.799999999999 </TableColumn>
+      <TableColumn> 398 0.799999999999 </TableColumn>
+      <TableColumn> 406 0.799999999999 </TableColumn>
       <StartIndex> 0 </StartIndex>
       <DisplayBlackAndWhite> 0 </DisplayBlackAndWhite>
     </PageTable>
   </Page>
-  <CurrentPageIndex>2</CurrentPageIndex>
+  <CurrentPageIndex>0</CurrentPageIndex>
   <DataSet>
     <ID>140 </ID>
     <BroadcastTo>0 </BroadcastTo>
@@ -1205,7 +1385,7 @@ B
       <BroadcastTo>3 17 106 107 </BroadcastTo>
       <Visible>1</Visible>
       <DataObjectName>Ln(V0-V/V0)</DataObjectName>
-      <DataObjectShortName>Ln(y)</DataObjectShortName>
+      <DataObjectShortName></DataObjectShortName>
       <DataObjectColor>0x2f2f 0x4f4f 0x2f2f| 0xffff 0xffffffff</DataObjectColor>
       <DataObjectDataSource>164</DataObjectDataSource>
       <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
@@ -1329,7 +1509,7 @@ B
     </DataColumn>
     <DataColumn>
       <ID>288 </ID>
-      <BroadcastTo>4 17 107 139 223 </BroadcastTo>
+      <BroadcastTo>2 17 223 </BroadcastTo>
       <Visible>1</Visible>
       <DataObjectName>Method</DataObjectName>
       <DataObjectShortName>C</DataObjectShortName>
@@ -1384,7 +1564,7 @@ Z1 2:Python
     </DataColumn>
     <DataColumn>
       <ID>339 </ID>
-      <BroadcastTo>4 17 107 139 223 </BroadcastTo>
+      <BroadcastTo>2 17 223 </BroadcastTo>
       <Visible>1</Visible>
       <DataObjectName>Time Constant Charge</DataObjectName>
       <DataObjectShortName>τC</DataObjectShortName>
@@ -1439,7 +1619,7 @@ Z1 2:Python
     </DataColumn>
     <DataColumn>
       <ID>347 </ID>
-      <BroadcastTo>4 17 107 139 223 </BroadcastTo>
+      <BroadcastTo>2 17 223 </BroadcastTo>
       <Visible>1</Visible>
       <DataObjectName>TC uncertainty Charge</DataObjectName>
       <DataObjectShortName>στC</DataObjectShortName>
@@ -1489,12 +1669,12 @@ Z1 2:Python
       <ColumnCells>
 0.01225
 0.004347
-Z1 2:0,009
+0.009
 </ColumnCells>
     </DataColumn>
     <DataColumn>
       <ID>398 </ID>
-      <BroadcastTo>4 17 107 139 223 </BroadcastTo>
+      <BroadcastTo>2 17 223 </BroadcastTo>
       <Visible>1</Visible>
       <DataObjectName>Time Constant Discharge</DataObjectName>
       <DataObjectShortName>τDC</DataObjectShortName>
@@ -1549,7 +1729,7 @@ Z1 2:0,009
     </DataColumn>
     <DataColumn>
       <ID>406 </ID>
-      <BroadcastTo>4 17 107 139 223 </BroadcastTo>
+      <BroadcastTo>2 17 223 </BroadcastTo>
       <Visible>1</Visible>
       <DataObjectName>TC uncertainty Discharge</DataObjectName>
       <DataObjectShortName>στDC</DataObjectShortName>
