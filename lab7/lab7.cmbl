@@ -20,7 +20,7 @@
   <GraphMatchNumSections>0</GraphMatchNumSections>
   <Stationery>0</Stationery>
   <CreationDateTime>2/24/2022 12:41:26</CreationDateTime>
-  <ModifiedDateTime>3/3/2022 15:25:09</ModifiedDateTime>
+  <ModifiedDateTime>3/3/2022 15:31:00</ModifiedDateTime>
   <PageBounds>0 0 15.6041666667 9</PageBounds>
   <ScreenResolution>0 0 2999 1999</ScreenResolution>
   <MathType>0</MathType>
@@ -58,7 +58,7 @@
       <ID>413 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>0.00520833333333 0 5.46875 3.9375 </Bounds>
+      <Bounds>0.00520833333333 0 5.46875 3.95833333333 </Bounds>
       <SubordinateToID>0</SubordinateToID>
       <SubordinateOffset>-2.015625 -1.484375</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -110,6 +110,59 @@ Rowan Vanhoof</TextText>
       <TextMakeAllTextVisible> 1 </TextMakeAllTextVisible>
     </PageText>
     <PageText>
+      <ID>415 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>12.5572916667 0.0260416666667 15.6041666667 3.94791666667 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>10.0572916667 -2.63541666667</SubordinateOffset>
+      <BackgroundTransparent>0</BackgroundTransparent>
+      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0x29</BackgroundColor>
+      <AddNewData>0</AddNewData>
+      <Locked>0</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+        <Size> 12 </Size>
+        <Justification> 0 </Justification>
+        <VerticalJustification> 0 </VerticalJustification>
+        <Styles> 0 0 0 0 0 0 </Styles>
+        <Family> 3 </Family>
+        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+        <Name>Arial</Name>
+        <Rotation>0</Rotation>
+      </Font>
+      <Font>
+        <Size> 12 </Size>
+        <Justification> 0 </Justification>
+        <VerticalJustification> 0 </VerticalJustification>
+        <Styles> 0 0 0 0 0 0 </Styles>
+        <Family> 3 </Family>
+        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+        <Name>Arial</Name>
+        <Rotation>0</Rotation>
+      </Font>
+      <TextText>Extension Questions:
+
+</TextText>
+      <StyleRun>
+        <Start> 0 </Start>
+        <End> 22 </End>
+        <Font>
+          <Size> 12 </Size>
+          <Justification> 0 </Justification>
+          <VerticalJustification> 0 </VerticalJustification>
+          <Styles> 0 0 0 0 0 0 </Styles>
+          <Family> 3 </Family>
+          <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+          <Name>Arial</Name>
+          <Rotation>0</Rotation>
+        </Font>
+      </StyleRun>
+      <TextMakeAllTextVisible> 1 </TextMakeAllTextVisible>
+    </PageText>
+    <PageText>
       <ID>414 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
@@ -142,7 +195,8 @@ Charge:
 Discharge: 
 	Ln(V/V_0)
 
-Given that using the above formulas result in a line, we expect the slope to be about 1, which is our time constant.
+Given that using the above formulas result in a line, we expect the slope to be about 1, which is our time constant. We expect the time constant to be about the same for both the charge and discharge and will test this relationship using several statistical methods.
+
 
 </TextText>
       <StyleRun>
@@ -189,7 +243,7 @@ Given that using the above formulas result in a line, we expect the slope to be 
       </StyleRun>
       <StyleRun>
         <Start> 526 </Start>
-        <End> 642 </End>
+        <End> 793 </End>
         <Font>
           <Size> 16 </Size>
           <Justification> 0 </Justification>
@@ -202,8 +256,8 @@ Given that using the above formulas result in a line, we expect the slope to be 
         </Font>
       </StyleRun>
       <StyleRun>
-        <Start> 642 </Start>
-        <End> 643 </End>
+        <Start> 793 </Start>
+        <End> 794 </End>
         <Font>
           <Size> 20 </Size>
           <Justification> 0 </Justification>
@@ -216,8 +270,8 @@ Given that using the above formulas result in a line, we expect the slope to be 
         </Font>
       </StyleRun>
       <StyleRun>
-        <Start> 643 </Start>
-        <End> 644 </End>
+        <Start> 794 </Start>
+        <End> 795 </End>
         <Font>
           <Size> 8 </Size>
           <Justification> 0 </Justification>
