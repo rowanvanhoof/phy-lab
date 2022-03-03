@@ -20,7 +20,7 @@
   <GraphMatchNumSections>0</GraphMatchNumSections>
   <Stationery>0</Stationery>
   <CreationDateTime>2/24/2022 12:41:26</CreationDateTime>
-  <ModifiedDateTime>3/3/2022 15:31:00</ModifiedDateTime>
+  <ModifiedDateTime>3/3/2022 15:46:27</ModifiedDateTime>
   <PageBounds>0 0 15.6041666667 9</PageBounds>
   <ScreenResolution>0 0 2999 1999</ScreenResolution>
   <MathType>0</MathType>
@@ -45,31 +45,31 @@
   <Page>
     <ID>412 </ID>
     <BroadcastTo>0 </BroadcastTo>
-    <Visible>1</Visible>
+    <Visible>0</Visible>
     <PageTitle>Lab 7- RC Circuits</PageTitle>
-    <PageColor>0xcccc 0xcccc 0xffff| 0xffff 0x0</PageColor>
+    <PageColor>0xcccc 0xcccc 0xffff| 0xffff 0xffffffff</PageColor>
     <PageDisplayPageInfo>0 </PageDisplayPageInfo>
     <PagePageInfo></PagePageInfo>
     <PageGraphPaper>0 </PageGraphPaper>
     <PageGraphPaperLineSpacing>0.25 </PageGraphPaperLineSpacing>
-    <PageGraphPaperLineColor>0x8484 0x7070 0xffff| 0xffff 0x0</PageGraphPaperLineColor>
-    <PageReplayWindowPosition>0 84 168 626 461</PageReplayWindowPosition>
+    <PageGraphPaperLineColor>0x8484 0x7070 0xffff| 0xffff 0xffffffff</PageGraphPaperLineColor>
+    <PageReplayWindowPosition>0 131 311 673 604</PageReplayWindowPosition>
     <PageText>
       <ID>413 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>0.00520833333333 0 5.46875 3.95833333333 </Bounds>
+      <Bounds>0.00520833 0 5.46875 3.95833 </Bounds>
       <SubordinateToID>0</SubordinateToID>
-      <SubordinateOffset>-2.015625 -1.484375</SubordinateOffset>
+      <SubordinateOffset>-2.01562 -1.48437</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
-      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0x29</BackgroundColor>
+      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
       <AddNewData>0</AddNewData>
       <Locked>0</Locked>
       <AutoCreated>0</AutoCreated>
       <GraphLinkedIDs>0 </GraphLinkedIDs>
       <YLinkedIDs>0 </YLinkedIDs>
       <Font>
-        <Size> 12 </Size>
+        <Size> 48 </Size>
         <Justification> 0 </Justification>
         <VerticalJustification> 0 </VerticalJustification>
         <Styles> 0 0 0 0 0 0 </Styles>
@@ -95,7 +95,7 @@ Justin Anderson
 Rowan Vanhoof</TextText>
       <StyleRun>
         <Start> 0 </Start>
-        <End> 64 </End>
+        <End> 68 </End>
         <Font>
           <Size> 48 </Size>
           <Justification> 0 </Justification>
@@ -113,11 +113,11 @@ Rowan Vanhoof</TextText>
       <ID>415 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>12.5572916667 0.0260416666667 15.6041666667 3.94791666667 </Bounds>
+      <Bounds>12.5573 0.0260417 15.6042 3.94792 </Bounds>
       <SubordinateToID>0</SubordinateToID>
-      <SubordinateOffset>10.0572916667 -2.63541666667</SubordinateOffset>
+      <SubordinateOffset>10.0573 -2.63542</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
-      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0x29</BackgroundColor>
+      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
       <AddNewData>0</AddNewData>
       <Locked>0</Locked>
       <AutoCreated>0</AutoCreated>
@@ -148,7 +148,7 @@ Rowan Vanhoof</TextText>
 </TextText>
       <StyleRun>
         <Start> 0 </Start>
-        <End> 22 </End>
+        <End> 24 </End>
         <Font>
           <Size> 12 </Size>
           <Justification> 0 </Justification>
@@ -166,11 +166,11 @@ Rowan Vanhoof</TextText>
       <ID>414 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>5.478125 0.0104166666667 12.5302083333 3.95833333333 </Bounds>
+      <Bounds>5.47813 0.0104167 12.5302 3.95833 </Bounds>
       <SubordinateToID>0</SubordinateToID>
-      <SubordinateOffset>3.578125 -1.89583333333</SubordinateOffset>
+      <SubordinateOffset>3.57812 -1.89583</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
-      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0x29</BackgroundColor>
+      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
       <AddNewData>0</AddNewData>
       <Locked>0</Locked>
       <AutoCreated>0</AutoCreated>
@@ -271,7 +271,7 @@ Given that using the above formulas result in a line, we expect the slope to be 
       </StyleRun>
       <StyleRun>
         <Start> 794 </Start>
-        <End> 795 </End>
+        <End> 807 </End>
         <Font>
           <Size> 8 </Size>
           <Justification> 0 </Justification>
@@ -297,12 +297,12 @@ Given that using the above formulas result in a line, we expect the slope to be 
     <PageGraphPaper>0 </PageGraphPaper>
     <PageGraphPaperLineSpacing>0.25 </PageGraphPaperLineSpacing>
     <PageGraphPaperLineColor>0x8484 0x7070 0xffff| 0xffff 0xffffffff</PageGraphPaperLineColor>
-    <PageReplayWindowPosition>0 84 168 626 461</PageReplayWindowPosition>
+    <PageReplayWindowPosition>0 131 311 673 604</PageReplayWindowPosition>
     <PageGraphCartesian>
       <ID>106 </ID>
       <BroadcastTo>2 230 233 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>3.07577 2.87729000001 11.3988 8.99250000001 </Bounds>
+      <Bounds>3.07577 2.87729 11.3988 8.9925 </Bounds>
       <SubordinateToID>0</SubordinateToID>
       <SubordinateOffset>0 0</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -375,9 +375,9 @@ Given that using the above formulas result in a line, we expect the slope to be 
       <ID>230 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>8.92993999999 6.11687000002 11.0195156836 7.20046375002 </Bounds>
+      <Bounds>8.92994 6.11687 11.0195 7.20046 </Bounds>
       <SubordinateToID>106</SubordinateToID>
-      <SubordinateOffset>5.85417 3.23958000001</SubordinateOffset>
+      <SubordinateOffset>5.85417 3.23958</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
       <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
       <AddNewData>0</AddNewData>
@@ -418,9 +418,9 @@ Given that using the above formulas result in a line, we expect the slope to be 
       <ID>233 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>9.00805999999 3.86166500001 10.7901771875 5.13275875001 </Bounds>
+      <Bounds>9.00806 3.86167 10.7902 5.13276 </Bounds>
       <SubordinateToID>106</SubordinateToID>
-      <SubordinateOffset>5.93228999999 0.984375</SubordinateOffset>
+      <SubordinateOffset>5.93229 0.984375</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
       <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
       <AddNewData>0</AddNewData>
@@ -461,7 +461,7 @@ Given that using the above formulas result in a line, we expect the slope to be 
       <ID>107 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>0.005625 0.00562500000002 3.06264 8.99437000001 </Bounds>
+      <Bounds>0.005625 0.005625 3.06264 8.99437 </Bounds>
       <SubordinateToID>0</SubordinateToID>
       <SubordinateOffset>0 0</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -481,9 +481,9 @@ Given that using the above formulas result in a line, we expect the slope to be 
         <Name>Arial</Name>
         <Rotation>0</Rotation>
       </Font>
-      <TableColumn> 155 0.799999999999 </TableColumn>
-      <TableColumn> 157 0.799999999999 </TableColumn>
-      <TableColumn> 162 0.799999999999 </TableColumn>
+      <TableColumn> 155 0.8 </TableColumn>
+      <TableColumn> 157 0.8 </TableColumn>
+      <TableColumn> 162 0.8 </TableColumn>
       <StartIndex> 0 </StartIndex>
       <DisplayBlackAndWhite> 0 </DisplayBlackAndWhite>
     </PageTable>
@@ -499,12 +499,12 @@ Given that using the above formulas result in a line, we expect the slope to be 
     <PageGraphPaper>0 </PageGraphPaper>
     <PageGraphPaperLineSpacing>0.25 </PageGraphPaperLineSpacing>
     <PageGraphPaperLineColor>0x8484 0x7070 0xffff| 0xffff 0xffffffff</PageGraphPaperLineColor>
-    <PageReplayWindowPosition>0 84 168 626 461</PageReplayWindowPosition>
+    <PageReplayWindowPosition>0 131 311 673 604</PageReplayWindowPosition>
     <PageGraphCartesian>
       <ID>137 </ID>
       <BroadcastTo>2 228 239 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>3.07577 3.22104000001 11.4561 8.99250000001 </Bounds>
+      <Bounds>3.07577 3.22104 11.4561 8.9925 </Bounds>
       <SubordinateToID>0</SubordinateToID>
       <SubordinateOffset>0 0</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -577,9 +577,9 @@ Given that using the above formulas result in a line, we expect the slope to be 
       <ID>239 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>9.07577 3.89291500001 11.0106581836 5.16400875001 </Bounds>
+      <Bounds>9.07577 3.89292 11.0107 5.16401 </Bounds>
       <SubordinateToID>137</SubordinateToID>
-      <SubordinateOffset>6 0.671875000002</SubordinateOffset>
+      <SubordinateOffset>6 0.671875</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
       <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
       <AddNewData>0</AddNewData>
@@ -620,9 +620,9 @@ Given that using the above formulas result in a line, we expect the slope to be 
       <ID>228 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>8.99243999999 6.60125000002 11.0940151953 7.68484375002 </Bounds>
+      <Bounds>8.99244 6.60125 11.094 7.68484 </Bounds>
       <SubordinateToID>137</SubordinateToID>
-      <SubordinateOffset>5.91666999999 3.38021000002</SubordinateOffset>
+      <SubordinateOffset>5.91667 3.38021</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
       <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
       <AddNewData>0</AddNewData>
@@ -640,8 +640,8 @@ Given that using the above formulas result in a line, we expect the slope to be 
         <Name>Arial</Name>
         <Rotation>0</Rotation>
       </Font>
-      <GUIHelperRangeMin>0.799431068959</GUIHelperRangeMin>
-      <GUIHelperRangeMax>3.14430673113</GUIHelperRangeMax>
+      <GUIHelperRangeMin>0.799431</GUIHelperRangeMin>
+      <GUIHelperRangeMax>3.14431</GUIHelperRangeMax>
       <GUIHelperTraceColumnID>159</GUIHelperTraceColumnID>
       <GUIHelperBaseColumnID>150</GUIHelperBaseColumnID>
       <GUIHelperPrecision>4</GUIHelperPrecision>
@@ -663,7 +663,7 @@ Given that using the above formulas result in a line, we expect the slope to be 
       <ID>139 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>0.005625 0.00562500000002 3.06264 8.99437000001 </Bounds>
+      <Bounds>0.005625 0.005625 3.06264 8.99437 </Bounds>
       <SubordinateToID>0</SubordinateToID>
       <SubordinateOffset>0 0</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -683,9 +683,9 @@ Given that using the above formulas result in a line, we expect the slope to be 
         <Name>Arial</Name>
         <Rotation>0</Rotation>
       </Font>
-      <TableColumn> 150 0.799999999999 </TableColumn>
-      <TableColumn> 152 0.799999999999 </TableColumn>
-      <TableColumn> 159 0.799999999999 </TableColumn>
+      <TableColumn> 150 0.8 </TableColumn>
+      <TableColumn> 152 0.8 </TableColumn>
+      <TableColumn> 159 0.8 </TableColumn>
       <StartIndex> 6 </StartIndex>
       <DisplayBlackAndWhite> 0 </DisplayBlackAndWhite>
     </PageTable>
@@ -693,7 +693,7 @@ Given that using the above formulas result in a line, we expect the slope to be 
   <Page>
     <ID>222 </ID>
     <BroadcastTo>0 </BroadcastTo>
-    <Visible>0</Visible>
+    <Visible>1</Visible>
     <PageTitle>Capacitor</PageTitle>
     <PageColor>0xcccc 0xcccc 0xffff| 0xffff 0xffffffff</PageColor>
     <PageDisplayPageInfo>0 </PageDisplayPageInfo>
@@ -706,9 +706,9 @@ Given that using the above formulas result in a line, we expect the slope to be 
       <ID>223 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>1.61253914405 0.333969794662 7.29480756437 2.85749486654 </Bounds>
+      <Bounds>4.23437 0.03125 9.77602 2.07292 </Bounds>
       <SubordinateToID>0</SubordinateToID>
-      <SubordinateOffset>-1.63541666667 -0.854166666667</SubordinateOffset>
+      <SubordinateOffset>0.947917 -1.24479</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
       <BackgroundColor>0xdada 0xdada 0xdada| 0xffff 0xffffffff</BackgroundColor>
       <AddNewData>1</AddNewData>
@@ -726,17 +726,141 @@ Given that using the above formulas result in a line, we expect the slope to be 
         <Name>Arial</Name>
         <Rotation>0</Rotation>
       </Font>
-      <TableColumn> 288 0.799999999999 </TableColumn>
-      <TableColumn> 226 0.799999999999 </TableColumn>
-      <TableColumn> 339 0.799999999999 </TableColumn>
-      <TableColumn> 347 0.799999999999 </TableColumn>
-      <TableColumn> 398 0.799999999999 </TableColumn>
-      <TableColumn> 406 0.799999999999 </TableColumn>
+      <TableColumn> 288 0.8 </TableColumn>
+      <TableColumn> 226 0.8 </TableColumn>
+      <TableColumn> 339 0.8 </TableColumn>
+      <TableColumn> 347 0.8 </TableColumn>
+      <TableColumn> 398 0.8 </TableColumn>
+      <TableColumn> 406 0.8 </TableColumn>
       <StartIndex> 0 </StartIndex>
       <DisplayBlackAndWhite> 0 </DisplayBlackAndWhite>
     </PageTable>
+    <PageGraphCartesian>
+      <ID>418 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>0.057292 2.13021 9.8125 8.97396 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>1.34896 2.67187</SubordinateOffset>
+      <BackgroundTransparent>0</BackgroundTransparent>
+      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>0</AddNewData>
+      <Locked>0</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+        <Size> 12 </Size>
+        <Justification> 0 </Justification>
+        <VerticalJustification> 0 </VerticalJustification>
+        <Styles> 0 0 0 0 0 0 </Styles>
+        <Family> 3 </Family>
+        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+        <Name>Arial</Name>
+        <Rotation>0</Rotation>
+      </Font>
+      <GraphTitle>Time Constants By Experimental Method with uncertainties</GraphTitle>
+      <GraphTitleColor>0x0 0x0 0x0| 0xffff 0x2e</GraphTitleColor>
+      <GraphShowPoints>0</GraphShowPoints>
+      <GraphInterpolate>0</GraphInterpolate>
+      <GraphShowTangent>0</GraphShowTangent>
+      <GraphShowLegend>0</GraphShowLegend>
+      <GraphShowCursorStatus>1</GraphShowCursorStatus>
+      <GraphShowCursorDelta>1</GraphShowCursorDelta>
+      <GraphPlotBaseColumnID>288 </GraphPlotBaseColumnID>
+      <GraphPlotTraceIDPairs>2 288 339 288 398 </GraphPlotTraceIDPairs>
+      <LogXAxis>0</LogXAxis>
+      <LogYAxis>0</LogYAxis>
+      <LogRightYAxis>0</LogRightYAxis>
+      <GraphShowTraceErrorBars>1</GraphShowTraceErrorBars>
+      <GraphShowBaseErrorBars>1</GraphShowBaseErrorBars>
+      <GraphShowUncertaintyBoxes>1</GraphShowUncertaintyBoxes>
+      <GraphConnectLines>0</GraphConnectLines>
+      <GraphBarGraph>1</GraphBarGraph>
+      <BinGraphStackColumns>0</BinGraphStackColumns>
+      <GraphShowPointProtectors>0</GraphShowPointProtectors>
+      <GraphMajorTickStyle>1</GraphMajorTickStyle>
+      <GraphMajorTickColor>0xc0c0 0xc0c0 0xc0c0| 0xffff 0xffffffff</GraphMajorTickColor>
+      <GraphMinorTickStyle>0</GraphMinorTickStyle>
+      <GraphMinorTickColor>0xc0c0 0xc0c0 0xc0c0| 0xffff 0xffffffff</GraphMinorTickColor>
+      <GraphPlotXAutoscale>3</GraphPlotXAutoscale>
+      <GraphPlotYAutoscale>3</GraphPlotYAutoscale>
+      <GraphPlotDoubleYAutoscale>3</GraphPlotDoubleYAutoscale>
+      <GraphPlotXAutoscaleOnFirstData>0</GraphPlotXAutoscaleOnFirstData>
+      <GraphPlotYAutoscaleOnFirstData>0</GraphPlotYAutoscaleOnFirstData>
+      <GraphPlotDoubleYAutoscaleOnFirstData>0</GraphPlotDoubleYAutoscaleOnFirstData>
+      <GraphPlotXAutoscaleHint>0</GraphPlotXAutoscaleHint>
+      <GraphPlotYAutoscaleHint>0</GraphPlotYAutoscaleHint>
+      <GraphPlotDoubleYAutoscaleHint>0</GraphPlotDoubleYAutoscaleHint>
+      <GraphPlotXMin>0.4</GraphPlotXMin>
+      <GraphPlotXMax>3.6</GraphPlotXMax>
+      <GraphPlotXTicksRotatedAngle>0</GraphPlotXTicksRotatedAngle>
+      <ShowAllValuesAsMajorTicks>0</ShowAllValuesAsMajorTicks>
+      <GraphPlotYMin>0</GraphPlotYMin>
+      <GraphPlotYMax>1.2</GraphPlotYMax>
+      <GraphPlotDefaultXMin>0.4</GraphPlotDefaultXMin>
+      <GraphPlotDefaultXMax>3.6</GraphPlotDefaultXMax>
+      <GraphPlotDefaultYMin>0</GraphPlotDefaultYMin>
+      <GraphPlotDefaultYMax>1.2</GraphPlotDefaultYMax>
+      <GraphPlotXLabel></GraphPlotXLabel>
+      <GraphPlotYLabel></GraphPlotYLabel>
+      <GraphDrawRainbow>0</GraphDrawRainbow>
+      <AudioTraceIDs>2 339 398 </AudioTraceIDs>
+      <GraphPlotDoubleYAxis>0</GraphPlotDoubleYAxis>
+    </PageGraphCartesian>
+    <PageText>
+      <ID>483 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>0.0604166666667 0.03125 4.221875 2.09895833333 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>-1.23958333333 -1.34375</SubordinateOffset>
+      <BackgroundTransparent>0</BackgroundTransparent>
+      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>0</AddNewData>
+      <Locked>0</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+        <Size> 12 </Size>
+        <Justification> 0 </Justification>
+        <VerticalJustification> 0 </VerticalJustification>
+        <Styles> 0 0 0 0 0 0 </Styles>
+        <Family> 3 </Family>
+        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+        <Name>Arial</Name>
+        <Rotation>0</Rotation>
+      </Font>
+      <Font>
+        <Size> 12 </Size>
+        <Justification> 0 </Justification>
+        <VerticalJustification> 0 </VerticalJustification>
+        <Styles> 0 0 0 0 0 0 </Styles>
+        <Family> 3 </Family>
+        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+        <Name>Arial</Name>
+        <Rotation>0</Rotation>
+      </Font>
+      <TextText>The bar chart below shows the time constants for each method with the uncertainties generated. EXPLAIN</TextText>
+      <StyleRun>
+        <Start> 0 </Start>
+        <End> 102 </End>
+        <Font>
+          <Size> 12 </Size>
+          <Justification> 0 </Justification>
+          <VerticalJustification> 0 </VerticalJustification>
+          <Styles> 0 0 0 0 0 0 </Styles>
+          <Family> 3 </Family>
+          <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+          <Name>Arial</Name>
+          <Rotation>0</Rotation>
+        </Font>
+      </StyleRun>
+      <TextMakeAllTextVisible> 1 </TextMakeAllTextVisible>
+    </PageText>
   </Page>
-  <CurrentPageIndex>0</CurrentPageIndex>
+  <CurrentPageIndex>3</CurrentPageIndex>
   <DataSet>
     <ID>140 </ID>
     <BroadcastTo>0 </BroadcastTo>
@@ -762,7 +886,7 @@ Given that using the above formulas result in a line, we expect the slope to be 
     </Metadata>
     <FunctionModel>
       <ID>229 </ID>
-      <BroadcastTo>1 137 </BroadcastTo>
+      <BroadcastTo>2 137 418 </BroadcastTo>
       <Visible>1</Visible>
       <DataObjectName>m*x+b</DataObjectName>
       <DataObjectShortName>Linear</DataObjectShortName>
@@ -859,7 +983,7 @@ B
     </FunctionModel>
     <FunctionModel>
       <ID>240 </ID>
-      <BroadcastTo>1 137 </BroadcastTo>
+      <BroadcastTo>2 137 418 </BroadcastTo>
       <Visible>1</Visible>
       <DataObjectName>A*exp(-C*x)+B</DataObjectName>
       <DataObjectShortName>exp.</DataObjectShortName>
@@ -908,7 +1032,7 @@ B
     </Metadata>
     <DataColumn>
       <ID>150 </ID>
-      <BroadcastTo>4 17 106 137 139 </BroadcastTo>
+      <BroadcastTo>5 17 106 137 139 418 </BroadcastTo>
       <Visible>1</Visible>
       <DataObjectName>Time</DataObjectName>
       <DataObjectShortName>t</DataObjectShortName>
@@ -1022,7 +1146,7 @@ B
     </DataColumn>
     <DataColumn>
       <ID>152 </ID>
-      <BroadcastTo>5 17 106 137 139 161 </BroadcastTo>
+      <BroadcastTo>6 17 106 137 139 161 418 </BroadcastTo>
       <Visible>1</Visible>
       <DataObjectName>Potential</DataObjectName>
       <DataObjectShortName>Pot</DataObjectShortName>
@@ -1135,7 +1259,7 @@ B
     </DataColumn>
     <DataColumn>
       <ID>159 </ID>
-      <BroadcastTo>3 17 137 139 </BroadcastTo>
+      <BroadcastTo>4 17 137 139 418 </BroadcastTo>
       <Visible>1</Visible>
       <DataObjectName>Ln(V/V_0)</DataObjectName>
       <DataObjectShortName>Ln(y)</DataObjectShortName>
@@ -1559,11 +1683,13 @@ B
       <ColumnGroupID>227</ColumnGroupID>
       <ColumnCells>
 99.5
+100
+100
 </ColumnCells>
     </DataColumn>
     <DataColumn>
       <ID>288 </ID>
-      <BroadcastTo>2 17 223 </BroadcastTo>
+      <BroadcastTo>3 17 223 418 </BroadcastTo>
       <Visible>1</Visible>
       <DataObjectName>Method</DataObjectName>
       <DataObjectShortName>C</DataObjectShortName>
@@ -1618,7 +1744,7 @@ Z1 2:Python
     </DataColumn>
     <DataColumn>
       <ID>339 </ID>
-      <BroadcastTo>2 17 223 </BroadcastTo>
+      <BroadcastTo>3 17 223 418 </BroadcastTo>
       <Visible>1</Visible>
       <DataObjectName>Time Constant Charge</DataObjectName>
       <DataObjectShortName>τC</DataObjectShortName>
@@ -1644,11 +1770,11 @@ Z1 2:Python
       <ColumnDisplayPPIntervalAuto>0</ColumnDisplayPPIntervalAuto>
       <ColumnDisplayPPFromColumn>0</ColumnDisplayPPFromColumn>
       <ColumnDisplayPPColumnID>0</ColumnDisplayPPColumnID>
-      <ColumnUseErrorCalculations>0</ColumnUseErrorCalculations>
+      <ColumnUseErrorCalculations>1</ColumnUseErrorCalculations>
       <ColumnErrorFixed>1</ColumnErrorFixed>
-      <ColumnErrorConstant>1</ColumnErrorConstant>
+      <ColumnErrorConstant>0</ColumnErrorConstant>
       <ColumnErrorValue>0</ColumnErrorValue>
-      <ColumnErrorColumnID>0</ColumnErrorColumnID>
+      <ColumnErrorColumnID>347</ColumnErrorColumnID>
       <ColumnForceScientific>0</ColumnForceScientific>
       <ColumnSensorColumn>0</ColumnSensorColumn>
       <ColumnSensorInputColumn>0</ColumnSensorInputColumn>
@@ -1673,7 +1799,7 @@ Z1 2:Python
     </DataColumn>
     <DataColumn>
       <ID>347 </ID>
-      <BroadcastTo>2 17 223 </BroadcastTo>
+      <BroadcastTo>3 17 223 339 </BroadcastTo>
       <Visible>1</Visible>
       <DataObjectName>TC uncertainty Charge</DataObjectName>
       <DataObjectShortName>στC</DataObjectShortName>
@@ -1728,7 +1854,7 @@ Z1 2:Python
     </DataColumn>
     <DataColumn>
       <ID>398 </ID>
-      <BroadcastTo>2 17 223 </BroadcastTo>
+      <BroadcastTo>3 17 223 418 </BroadcastTo>
       <Visible>1</Visible>
       <DataObjectName>Time Constant Discharge</DataObjectName>
       <DataObjectShortName>τDC</DataObjectShortName>
@@ -1754,11 +1880,11 @@ Z1 2:Python
       <ColumnDisplayPPIntervalAuto>0</ColumnDisplayPPIntervalAuto>
       <ColumnDisplayPPFromColumn>0</ColumnDisplayPPFromColumn>
       <ColumnDisplayPPColumnID>0</ColumnDisplayPPColumnID>
-      <ColumnUseErrorCalculations>0</ColumnUseErrorCalculations>
+      <ColumnUseErrorCalculations>1</ColumnUseErrorCalculations>
       <ColumnErrorFixed>1</ColumnErrorFixed>
-      <ColumnErrorConstant>1</ColumnErrorConstant>
+      <ColumnErrorConstant>0</ColumnErrorConstant>
       <ColumnErrorValue>0</ColumnErrorValue>
-      <ColumnErrorColumnID>0</ColumnErrorColumnID>
+      <ColumnErrorColumnID>406</ColumnErrorColumnID>
       <ColumnForceScientific>0</ColumnForceScientific>
       <ColumnSensorColumn>0</ColumnSensorColumn>
       <ColumnSensorInputColumn>0</ColumnSensorInputColumn>
@@ -1783,7 +1909,7 @@ Z1 2:Python
     </DataColumn>
     <DataColumn>
       <ID>406 </ID>
-      <BroadcastTo>2 17 223 </BroadcastTo>
+      <BroadcastTo>3 17 223 398 </BroadcastTo>
       <Visible>1</Visible>
       <DataObjectName>TC uncertainty Discharge</DataObjectName>
       <DataObjectShortName>στDC</DataObjectShortName>
