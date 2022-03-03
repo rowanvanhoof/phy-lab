@@ -2,8 +2,8 @@
   <FileCoherence>1</FileCoherence>
   <Version>3.16.2</Version>
   <charset>utf-8</charset>
-  <ApplicationBuildDateTime>Mar  8 2021 07:58:58</ApplicationBuildDateTime>
-  <FileName>lab4.cmbl</FileName>
+  <ApplicationBuildDateTime>Mar  8 2021 08:00:57</ApplicationBuildDateTime>
+  <FileName>lab5-6_final.cmbl</FileName>
   <FileIDString>2/10/2022 12:06:00Your name here196834756</FileIDString>
   <CreatorOS>2</CreatorOS>
   <CreatorApp>1</CreatorApp>
@@ -20,13 +20,13 @@
   <GraphMatchNumSections>0</GraphMatchNumSections>
   <Stationery>0</Stationery>
   <CreationDateTime>2/10/2022 12:06:00</CreationDateTime>
-  <ModifiedDateTime>2/17/2022 13:51:37</ModifiedDateTime>
-  <PageBounds>0 0 15.6041666667 9</PageBounds>
-  <ScreenResolution>0 0 2999 1999</ScreenResolution>
+  <ModifiedDateTime>2/24/2022 18:56:58</ModifiedDateTime>
+  <PageBounds>0 0 19.9583333333 10.1458333333</PageBounds>
+  <ScreenResolution>0 0 1919 1079</ScreenResolution>
   <MathType>0</MathType>
   <AllowOptionsDialogs>1</AllowOptionsDialogs>
   <AllowAutoCurveFit>1</AllowAutoCurveFit>
-  <ReplayWindowPosition>0 85 169 627 462 1</ReplayWindowPosition>
+  <ReplayWindowPosition>0 -1866 91 -1592 245 1</ReplayWindowPosition>
   <ReplayWindowSpeed>1</ReplayWindowSpeed>
   <ReplayWindowRepeat>0</ReplayWindowRepeat>
   <SensorConflictEnabled>1</SensorConflictEnabled>
@@ -39,7 +39,7 @@
   <Page>
     <ID>100 </ID>
     <BroadcastTo>0 </BroadcastTo>
-    <Visible>1</Visible>
+    <Visible>0</Visible>
     <PageTitle></PageTitle>
     <PageColor>0xcccc 0xcccc 0xffff| 0xffff 0xffffffff</PageColor>
     <PageDisplayPageInfo>0 </PageDisplayPageInfo>
@@ -47,12 +47,61 @@
     <PageGraphPaper>0 </PageGraphPaper>
     <PageGraphPaperLineSpacing>0.25 </PageGraphPaperLineSpacing>
     <PageGraphPaperLineColor>0x8484 0x7070 0xffff| 0xffff 0xffffffff</PageGraphPaperLineColor>
-    <PageReplayWindowPosition>0 85 169 627 462</PageReplayWindowPosition>
+    <PageReplayWindowPosition>0 34 49 308 203</PageReplayWindowPosition>
+    <PageTable>
+      <ID>107 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>0.00719459000001 3.69948000001 19.9511 10.1395 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0 0</SubordinateOffset>
+      <BackgroundTransparent>0</BackgroundTransparent>
+      <BackgroundColor>0xdada 0xdada 0xdada| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>1</AddNewData>
+      <Locked>0</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+        <Size> 12 </Size>
+        <Justification> 2 </Justification>
+        <VerticalJustification> 0 </VerticalJustification>
+        <Styles> 0 0 0 0 0 0 </Styles>
+        <Family> 3 </Family>
+        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+        <Name>Arial</Name>
+        <Rotation>0</Rotation>
+      </Font>
+      <TableColumn> 116 1.02323 </TableColumn>
+      <TableColumn> 1398 1.02323 </TableColumn>
+      <TableColumn> 1497 1.02323 </TableColumn>
+      <TableColumn> 1598 1.02323 </TableColumn>
+      <TableColumn> 1602 1.02323 </TableColumn>
+      <TableColumn> 199 1.02323 </TableColumn>
+      <TableColumn> 201 1.02323 </TableColumn>
+      <TableColumn> 203 1.02323 </TableColumn>
+      <TableColumn> 220 1.02323 </TableColumn>
+      <TableColumn> 222 1.02323 </TableColumn>
+      <TableColumn> 224 1.02323 </TableColumn>
+      <TableColumn> 240 1.02323 </TableColumn>
+      <TableColumn> 242 1.02323 </TableColumn>
+      <TableColumn> 244 1.02323 </TableColumn>
+      <TableColumn> 273 1.02323 </TableColumn>
+      <TableColumn> 275 1.02323 </TableColumn>
+      <TableColumn> 277 1.02323 </TableColumn>
+      <TableColumn> 1252 1.02323 </TableColumn>
+      <TableColumn> 1355 1.02323 </TableColumn>
+      <TableColumn> 1390 1.02323 </TableColumn>
+      <TableColumn> 1394 1.02323 </TableColumn>
+      <TableColumn> 1606 1.02323 </TableColumn>
+      <StartIndex> 0 </StartIndex>
+      <DisplayBlackAndWhite> 0 </DisplayBlackAndWhite>
+    </PageTable>
     <PageText>
       <ID>287 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>0.0364583 0.0416667 4.34375 3.15625 </Bounds>
+      <Bounds>0.0466316000001 0.0469715000002 5.55582000001 3.55809000001 </Bounds>
       <SubordinateToID>0</SubordinateToID>
       <SubordinateOffset>-2.46354 -2.45833</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -104,62 +153,13 @@ Matthew Hovis</TextText>
       </StyleRun>
       <TextMakeAllTextVisible> 1 </TextMakeAllTextVisible>
     </PageText>
-    <PageTable>
-      <ID>107 </ID>
-      <BroadcastTo>0 </BroadcastTo>
-      <Visible>1</Visible>
-      <Bounds>0.005625 3.28167 15.5985 8.99437 </Bounds>
-      <SubordinateToID>0</SubordinateToID>
-      <SubordinateOffset>0 0</SubordinateOffset>
-      <BackgroundTransparent>0</BackgroundTransparent>
-      <BackgroundColor>0xdada 0xdada 0xdada| 0xffff 0xffffffff</BackgroundColor>
-      <AddNewData>1</AddNewData>
-      <Locked>0</Locked>
-      <AutoCreated>0</AutoCreated>
-      <GraphLinkedIDs>0 </GraphLinkedIDs>
-      <YLinkedIDs>0 </YLinkedIDs>
-      <Font>
-        <Size> 12 </Size>
-        <Justification> 2 </Justification>
-        <VerticalJustification> 0 </VerticalJustification>
-        <Styles> 0 0 0 0 0 0 </Styles>
-        <Family> 3 </Family>
-        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
-        <Name>Arial</Name>
-        <Rotation>0</Rotation>
-      </Font>
-      <TableColumn> 116 0.8 </TableColumn>
-      <TableColumn> 1398 0.8 </TableColumn>
-      <TableColumn> 1497 0.8 </TableColumn>
-      <TableColumn> 1598 0.8 </TableColumn>
-      <TableColumn> 1602 0.8 </TableColumn>
-      <TableColumn> 199 0.8 </TableColumn>
-      <TableColumn> 201 0.8 </TableColumn>
-      <TableColumn> 203 0.8 </TableColumn>
-      <TableColumn> 220 0.8 </TableColumn>
-      <TableColumn> 222 0.8 </TableColumn>
-      <TableColumn> 224 0.8 </TableColumn>
-      <TableColumn> 240 0.8 </TableColumn>
-      <TableColumn> 242 0.8 </TableColumn>
-      <TableColumn> 244 0.8 </TableColumn>
-      <TableColumn> 273 0.8 </TableColumn>
-      <TableColumn> 275 0.8 </TableColumn>
-      <TableColumn> 277 0.8 </TableColumn>
-      <TableColumn> 1252 0.8 </TableColumn>
-      <TableColumn> 1355 0.8 </TableColumn>
-      <TableColumn> 1390 0.8 </TableColumn>
-      <TableColumn> 1394 0.8 </TableColumn>
-      <TableColumn> 1606 0.8 </TableColumn>
-      <StartIndex> 0 </StartIndex>
-      <DisplayBlackAndWhite> 0 </DisplayBlackAndWhite>
-    </PageTable>
     <PageText>
-      <ID>1616 </ID>
+      <ID>1713 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>4.39166666667 0.0375 9.02708333333 3.11041666667 </Bounds>
+      <Bounds>16.2708 0.127083 18.75 3.36667000001 </Bounds>
       <SubordinateToID>0</SubordinateToID>
-      <SubordinateOffset>2.29166666667 -2.0625</SubordinateOffset>
+      <SubordinateOffset>12.5938 -4.07292</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
       <BackgroundColor>0xffff 0xe1e1 0xffff| 0xffff 0xffffffff</BackgroundColor>
       <AddNewData>0</AddNewData>
@@ -187,10 +187,71 @@ Matthew Hovis</TextText>
         <Name>Arial</Name>
         <Rotation>0</Rotation>
       </Font>
-      <TextText>We conducted this experiment to compare our theoretical uncertainty model to the uncerntainty values found using logger pro and the resistor color codes. We made these calculations and compared them to the uncertainties found using the python chi squared linear fit.</TextText>
+      <TextText>Resistors used:
+
+R1 - 10 Ohms
+
+R3 - 51 Ohms
+
+R6 - 68 Ohms</TextText>
       <StyleRun>
         <Start> 0 </Start>
-        <End> 266 </End>
+        <End> 63 </End>
+        <Font>
+          <Size> 12 </Size>
+          <Justification> 0 </Justification>
+          <VerticalJustification> 0 </VerticalJustification>
+          <Styles> 0 0 0 0 0 0 </Styles>
+          <Family> 3 </Family>
+          <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+          <Name>Arial</Name>
+          <Rotation>0</Rotation>
+        </Font>
+      </StyleRun>
+      <TextMakeAllTextVisible> 1 </TextMakeAllTextVisible>
+    </PageText>
+    <PageText>
+      <ID>1616 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>5.61711000001 0.0422743000001 11.546 3.50642000001 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>2.29167 -2.0625</SubordinateOffset>
+      <BackgroundTransparent>0</BackgroundTransparent>
+      <BackgroundColor>0xffff 0xe1e1 0xffff| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>0</AddNewData>
+      <Locked>0</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+        <Size> 12 </Size>
+        <Justification> 0 </Justification>
+        <VerticalJustification> 0 </VerticalJustification>
+        <Styles> 0 0 0 0 0 0 </Styles>
+        <Family> 3 </Family>
+        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+        <Name>Arial</Name>
+        <Rotation>0</Rotation>
+      </Font>
+      <Font>
+        <Size> 12 </Size>
+        <Justification> 0 </Justification>
+        <VerticalJustification> 0 </VerticalJustification>
+        <Styles> 0 0 0 0 0 0 </Styles>
+        <Family> 3 </Family>
+        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+        <Name>Arial</Name>
+        <Rotation>0</Rotation>
+      </Font>
+      <TextText>Experiment/Purpose:
+
+The purpose of this lab was to develop and test a theoretical model/models for the equivalent or total resistance of a circuit of resistors in series and that of a circuit in parallel with varying numbers of resistors and after devising that test model we will compare it to measurements taken in logger pro, python (using a chi squared linear fit), and the resistors individual color codes and being sure to include each methods uncertainties in the comparison.  Before conducting the experiment we have proposed the following models of measuring equivalent resistances in series and parallel circuits : Req = R1+R2+...+RK and 1/Req = 1/R1 + 1/R2 + ... 1/RK respectively. In the following pages you'll find test data for four total circuits, two with two resistors in series and parallel and then the same set up but with 3 resistors to have a variety of data to test our models. During each test we measured the potential and current over a period of time and then used that data for both our logger pro model calculations and python calculations.
+
+</TextText>
+      <StyleRun>
+        <Start> 0 </Start>
+        <End> 1076 </End>
         <Font>
           <Size> 12 </Size>
           <Justification> 0 </Justification>
@@ -208,9 +269,9 @@ Matthew Hovis</TextText>
       <ID>1619 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>9.25729166667 0.0802083333333 14.0020833333 3.08020833333 </Bounds>
+      <Bounds>11.58 0.0800034000003 16.2217 3.46195000001 </Bounds>
       <SubordinateToID>0</SubordinateToID>
-      <SubordinateOffset>6.55729166667 -2.61979166667</SubordinateOffset>
+      <SubordinateOffset>6.29688 -2.63021</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
       <BackgroundColor>0xffff 0xe1e1 0xffff| 0xffff 0xffffffff</BackgroundColor>
       <AddNewData>0</AddNewData>
@@ -238,10 +299,12 @@ Matthew Hovis</TextText>
         <Name>Arial</Name>
         <Rotation>0</Rotation>
       </Font>
-      <TextText></TextText>
+      <TextText>Assumptions:
+
+We have assumed all of our equipment is functional and operates as intended such as our power supply outputting the correct voltage and current as we did not take into account any discrepancies on it's part in our calculations. Another assumption we've made is that all of our wires are perfect conductors and the length of the wire has a negligible effect on the flow of our current. Another assumption we had to make was that the LabQuest mini device is accurate as we have no way of testing it's precision and accuracy during our calculations</TextText>
       <StyleRun>
         <Start> 0 </Start>
-        <End> 0 </End>
+        <End> 561 </End>
         <Font>
           <Size> 12 </Size>
           <Justification> 0 </Justification>
@@ -267,12 +330,42 @@ Matthew Hovis</TextText>
     <PageGraphPaper>0 </PageGraphPaper>
     <PageGraphPaperLineSpacing>0.25 </PageGraphPaperLineSpacing>
     <PageGraphPaperLineColor>0x8484 0x7070 0xffff| 0xffff 0xffffffff</PageGraphPaperLineColor>
-    <PageReplayWindowPosition>0 85 169 627 462</PageReplayWindowPosition>
+    <PageReplayWindowPosition>0 34 49 308 203</PageReplayWindowPosition>
+    <PageTable>
+      <ID>177 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>0.0416667000001 0 3.95171000001 10.1331 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>-0.802083 -0.0625</SubordinateOffset>
+      <BackgroundTransparent>0</BackgroundTransparent>
+      <BackgroundColor>0xdada 0xdada 0xdada| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>1</AddNewData>
+      <Locked>0</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+        <Size> 12 </Size>
+        <Justification> 2 </Justification>
+        <VerticalJustification> 0 </VerticalJustification>
+        <Styles> 0 0 0 0 0 0 </Styles>
+        <Family> 3 </Family>
+        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+        <Name>Arial</Name>
+        <Rotation>0</Rotation>
+      </Font>
+      <TableColumn> 199 1.02323 </TableColumn>
+      <TableColumn> 201 1.02323 </TableColumn>
+      <TableColumn> 203 1.02323 </TableColumn>
+      <StartIndex> 0 </StartIndex>
+      <DisplayBlackAndWhite> 0 </DisplayBlackAndWhite>
+    </PageTable>
     <PageGraphCartesian>
       <ID>176 </ID>
       <BroadcastTo>1 279 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>3.07577 0.0075 15.5967 2.9925 </Bounds>
+      <Bounds>3.93403000001 0.00845486000003 19.9488 3.37349000001 </Bounds>
       <SubordinateToID>0</SubordinateToID>
       <SubordinateOffset>0 0</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -292,7 +385,7 @@ Matthew Hovis</TextText>
         <Name>Arial</Name>
         <Rotation>0</Rotation>
       </Font>
-      <GraphTitle>Potential vs. Current</GraphTitle>
+      <GraphTitle>Potential vs. Current (2 Resistor Series)</GraphTitle>
       <GraphTitleColor>0x0 0x0 0x0| 0xffff 0x2e</GraphTitleColor>
       <GraphShowPoints>0</GraphShowPoints>
       <GraphInterpolate>0</GraphInterpolate>
@@ -345,9 +438,9 @@ Matthew Hovis</TextText>
       <ID>279 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>9.54973 1.68979 12.0612173047 2.77338375 </Bounds>
+      <Bounds>16.40193 1.05075486 18.9816673047 2.16434861 </Bounds>
       <SubordinateToID>176</SubordinateToID>
-      <SubordinateOffset>6.47396 1.68229</SubordinateOffset>
+      <SubordinateOffset>12.4679 1.0423</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
       <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
       <AddNewData>0</AddNewData>
@@ -376,21 +469,21 @@ Matthew Hovis</TextText>
       <GUIHelperUnderlyingHistogramFFTColumnID>0</GUIHelperUnderlyingHistogramFFTColumnID>
       <CurveFitFunctionID>280</CurveFitFunctionID>
       <CurveFitColumnID>0</CurveFitColumnID>
-      <CurveFitError>0.0280036</CurveFitError>
+      <CurveFitError>0.027245</CurveFitError>
       <CurveFitMethod>1</CurveFitMethod>
       <CurveFitUncertainty>0</CurveFitUncertainty>
       <ManualCurveFitIncrements>0 </ManualCurveFitIncrements>
       <ManualCurveFitShowRMSE>1</ManualCurveFitShowRMSE>
       <ManualCurveFitWeightColumnId>4294967295</ManualCurveFitWeightColumnId>
-      <CurveFitCorrelation>0.99986</CurveFitCorrelation>
+      <CurveFitCorrelation>0.999864</CurveFitCorrelation>
     </PageHelperDataCurveFit>
     <PageGraphCartesian>
       <ID>189 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>3.07577 3.0075 15.5967 5.9925 </Bounds>
+      <Bounds>3.94358000001 3.34873000001 19.9583 6.71377000002 </Bounds>
       <SubordinateToID>0</SubordinateToID>
-      <SubordinateOffset>0 0</SubordinateOffset>
+      <SubordinateOffset>0.0729167 -0.0416667</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
       <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
       <AddNewData>0</AddNewData>
@@ -408,7 +501,7 @@ Matthew Hovis</TextText>
         <Name>Arial</Name>
         <Rotation>0</Rotation>
       </Font>
-      <GraphTitle>Potential vs. Time</GraphTitle>
+      <GraphTitle>Potential vs. Time (2 Resistor Series)</GraphTitle>
       <GraphTitleColor>0x0 0x0 0x0| 0xffff 0x2e</GraphTitleColor>
       <GraphShowPoints>0</GraphShowPoints>
       <GraphInterpolate>0</GraphInterpolate>
@@ -447,7 +540,7 @@ Matthew Hovis</TextText>
       <ShowAllValuesAsMajorTicks>0</ShowAllValuesAsMajorTicks>
       <GraphPlotYMin>-1</GraphPlotYMin>
       <GraphPlotYMax>6</GraphPlotYMax>
-      <GraphPlotDefaultXMin>0</GraphPlotDefaultXMin>
+      <GraphPlotDefaultXMin>-2</GraphPlotDefaultXMin>
       <GraphPlotDefaultXMax>32</GraphPlotDefaultXMax>
       <GraphPlotDefaultYMin>-1</GraphPlotDefaultYMin>
       <GraphPlotDefaultYMax>6</GraphPlotDefaultYMax>
@@ -461,7 +554,7 @@ Matthew Hovis</TextText>
       <ID>196 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>3.07577 6.0075 15.5967 8.9925 </Bounds>
+      <Bounds>3.93403000001 6.77234000002 19.9488 10.1374 </Bounds>
       <SubordinateToID>0</SubordinateToID>
       <SubordinateOffset>0 0</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -481,7 +574,7 @@ Matthew Hovis</TextText>
         <Name>Arial</Name>
         <Rotation>0</Rotation>
       </Font>
-      <GraphTitle>Current vs. Time</GraphTitle>
+      <GraphTitle>Current vs. Time (2 Resistor Series)</GraphTitle>
       <GraphTitleColor>0x0 0x0 0x0| 0xffff 0x2e</GraphTitleColor>
       <GraphShowPoints>0</GraphShowPoints>
       <GraphInterpolate>0</GraphInterpolate>
@@ -520,7 +613,7 @@ Matthew Hovis</TextText>
       <ShowAllValuesAsMajorTicks>0</ShowAllValuesAsMajorTicks>
       <GraphPlotYMin>0</GraphPlotYMin>
       <GraphPlotYMax>0.1</GraphPlotYMax>
-      <GraphPlotDefaultXMin>0</GraphPlotDefaultXMin>
+      <GraphPlotDefaultXMin>-2</GraphPlotDefaultXMin>
       <GraphPlotDefaultXMax>32</GraphPlotDefaultXMax>
       <GraphPlotDefaultYMin>0</GraphPlotDefaultYMin>
       <GraphPlotDefaultYMax>0.1</GraphPlotDefaultYMax>
@@ -530,11 +623,24 @@ Matthew Hovis</TextText>
       <AudioTraceIDs>1 203 </AudioTraceIDs>
       <GraphPlotDoubleYAxis>0</GraphPlotDoubleYAxis>
     </PageGraphCartesian>
+  </Page>
+  <Page>
+    <ID>205 </ID>
+    <BroadcastTo>0 </BroadcastTo>
+    <Visible>0</Visible>
+    <PageTitle>series_3</PageTitle>
+    <PageColor>0xcccc 0xcccc 0xffff| 0xffff 0xffffffff</PageColor>
+    <PageDisplayPageInfo>0 </PageDisplayPageInfo>
+    <PagePageInfo></PagePageInfo>
+    <PageGraphPaper>0 </PageGraphPaper>
+    <PageGraphPaperLineSpacing>0.25 </PageGraphPaperLineSpacing>
+    <PageGraphPaperLineColor>0x8484 0x7070 0xffff| 0xffff 0xffffffff</PageGraphPaperLineColor>
+    <PageReplayWindowPosition>0 34 49 308 203</PageReplayWindowPosition>
     <PageTable>
-      <ID>177 </ID>
+      <ID>217 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>0.005625 0.005625 3.06264 8.99437 </Bounds>
+      <Bounds>0.00719459000001 0.00634115000002 3.91724000001 10.1395 </Bounds>
       <SubordinateToID>0</SubordinateToID>
       <SubordinateOffset>0 0</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -554,30 +660,17 @@ Matthew Hovis</TextText>
         <Name>Arial</Name>
         <Rotation>0</Rotation>
       </Font>
-      <TableColumn> 199 0.8 </TableColumn>
-      <TableColumn> 201 0.8 </TableColumn>
-      <TableColumn> 203 0.8 </TableColumn>
+      <TableColumn> 220 1.02323 </TableColumn>
+      <TableColumn> 222 1.02323 </TableColumn>
+      <TableColumn> 224 1.02323 </TableColumn>
       <StartIndex> 0 </StartIndex>
       <DisplayBlackAndWhite> 0 </DisplayBlackAndWhite>
     </PageTable>
-  </Page>
-  <Page>
-    <ID>205 </ID>
-    <BroadcastTo>0 </BroadcastTo>
-    <Visible>0</Visible>
-    <PageTitle>series_3</PageTitle>
-    <PageColor>0xcccc 0xcccc 0xffff| 0xffff 0xffffffff</PageColor>
-    <PageDisplayPageInfo>0 </PageDisplayPageInfo>
-    <PagePageInfo></PagePageInfo>
-    <PageGraphPaper>0 </PageGraphPaper>
-    <PageGraphPaperLineSpacing>0.25 </PageGraphPaperLineSpacing>
-    <PageGraphPaperLineColor>0x8484 0x7070 0xffff| 0xffff 0xffffffff</PageGraphPaperLineColor>
-    <PageReplayWindowPosition>0 85 169 627 462</PageReplayWindowPosition>
     <PageGraphCartesian>
       <ID>211 </ID>
       <BroadcastTo>1 281 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>3.07576 0.0075 15.5967 2.9925 </Bounds>
+      <Bounds>3.93402000001 0.00845486000003 19.9488 3.37349000001 </Bounds>
       <SubordinateToID>0</SubordinateToID>
       <SubordinateOffset>0 0</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -597,7 +690,7 @@ Matthew Hovis</TextText>
         <Name>Arial</Name>
         <Rotation>0</Rotation>
       </Font>
-      <GraphTitle>Potential vs. Current</GraphTitle>
+      <GraphTitle>Potential vs. Current  (3 Resistor Series)</GraphTitle>
       <GraphTitleColor>0x0 0x0 0x0| 0xffff 0x2e</GraphTitleColor>
       <GraphShowPoints>0</GraphShowPoints>
       <GraphInterpolate>0</GraphInterpolate>
@@ -650,9 +743,9 @@ Matthew Hovis</TextText>
       <ID>281 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>10.24763 1.24708 12.7103502148 2.33067375 </Bounds>
+      <Bounds>16.49252 1.07251486 19.0234902149 2.18610861 </Bounds>
       <SubordinateToID>211</SubordinateToID>
-      <SubordinateOffset>7.17187 1.23958</SubordinateOffset>
+      <SubordinateOffset>12.5585 1.06406</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
       <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
       <AddNewData>0</AddNewData>
@@ -681,19 +774,19 @@ Matthew Hovis</TextText>
       <GUIHelperUnderlyingHistogramFFTColumnID>0</GUIHelperUnderlyingHistogramFFTColumnID>
       <CurveFitFunctionID>282</CurveFitFunctionID>
       <CurveFitColumnID>0</CurveFitColumnID>
-      <CurveFitError>0.0234739</CurveFitError>
+      <CurveFitError>0.0236317</CurveFitError>
       <CurveFitMethod>1</CurveFitMethod>
       <CurveFitUncertainty>0</CurveFitUncertainty>
       <ManualCurveFitIncrements>0 </ManualCurveFitIncrements>
       <ManualCurveFitShowRMSE>1</ManualCurveFitShowRMSE>
       <ManualCurveFitWeightColumnId>4294967295</ManualCurveFitWeightColumnId>
-      <CurveFitCorrelation>0.999906</CurveFitCorrelation>
+      <CurveFitCorrelation>0.999902</CurveFitCorrelation>
     </PageHelperDataCurveFit>
     <PageGraphCartesian>
       <ID>213 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>3.07576 3.0075 15.5967 5.9925 </Bounds>
+      <Bounds>3.93402000001 3.39040000001 19.9488 6.75543000002 </Bounds>
       <SubordinateToID>0</SubordinateToID>
       <SubordinateOffset>0 0</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -713,7 +806,7 @@ Matthew Hovis</TextText>
         <Name>Arial</Name>
         <Rotation>0</Rotation>
       </Font>
-      <GraphTitle>Potential vs. Time</GraphTitle>
+      <GraphTitle>Potential vs. Time (3 Resistor Series)</GraphTitle>
       <GraphTitleColor>0x0 0x0 0x0| 0xffff 0x2e</GraphTitleColor>
       <GraphShowPoints>0</GraphShowPoints>
       <GraphInterpolate>0</GraphInterpolate>
@@ -766,7 +859,7 @@ Matthew Hovis</TextText>
       <ID>215 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>3.07576 6.0075 15.5967 8.9925 </Bounds>
+      <Bounds>3.93402000001 6.77234000002 19.9488 10.1374 </Bounds>
       <SubordinateToID>0</SubordinateToID>
       <SubordinateOffset>0 0</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -786,7 +879,7 @@ Matthew Hovis</TextText>
         <Name>Arial</Name>
         <Rotation>0</Rotation>
       </Font>
-      <GraphTitle>Current vs. Time</GraphTitle>
+      <GraphTitle>Current vs. Time (3 Resistor Series)</GraphTitle>
       <GraphTitleColor>0x0 0x0 0x0| 0xffff 0x2e</GraphTitleColor>
       <GraphShowPoints>0</GraphShowPoints>
       <GraphInterpolate>0</GraphInterpolate>
@@ -835,11 +928,24 @@ Matthew Hovis</TextText>
       <AudioTraceIDs>1 224 </AudioTraceIDs>
       <GraphPlotDoubleYAxis>0</GraphPlotDoubleYAxis>
     </PageGraphCartesian>
+  </Page>
+  <Page>
+    <ID>226 </ID>
+    <BroadcastTo>0 </BroadcastTo>
+    <Visible>0</Visible>
+    <PageTitle>parallel_2</PageTitle>
+    <PageColor>0xcccc 0xcccc 0xffff| 0xffff 0xffffffff</PageColor>
+    <PageDisplayPageInfo>0 </PageDisplayPageInfo>
+    <PagePageInfo></PagePageInfo>
+    <PageGraphPaper>0 </PageGraphPaper>
+    <PageGraphPaperLineSpacing>0.25 </PageGraphPaperLineSpacing>
+    <PageGraphPaperLineColor>0x8484 0x7070 0xffff| 0xffff 0xffffffff</PageGraphPaperLineColor>
+    <PageReplayWindowPosition>0 34 49 308 203</PageReplayWindowPosition>
     <PageTable>
-      <ID>217 </ID>
+      <ID>238 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>0.005625 0.005625 3.06264 8.99437 </Bounds>
+      <Bounds>0.00719459000001 0.00634115000002 3.91722000001 10.1395 </Bounds>
       <SubordinateToID>0</SubordinateToID>
       <SubordinateOffset>0 0</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -859,176 +965,17 @@ Matthew Hovis</TextText>
         <Name>Arial</Name>
         <Rotation>0</Rotation>
       </Font>
-      <TableColumn> 220 0.8 </TableColumn>
-      <TableColumn> 222 0.8 </TableColumn>
-      <TableColumn> 224 0.8 </TableColumn>
+      <TableColumn> 240 1.02323 </TableColumn>
+      <TableColumn> 242 1.02323 </TableColumn>
+      <TableColumn> 244 1.02323 </TableColumn>
       <StartIndex> 0 </StartIndex>
       <DisplayBlackAndWhite> 0 </DisplayBlackAndWhite>
     </PageTable>
-  </Page>
-  <Page>
-    <ID>226 </ID>
-    <BroadcastTo>0 </BroadcastTo>
-    <Visible>0</Visible>
-    <PageTitle>parallel_2</PageTitle>
-    <PageColor>0xcccc 0xcccc 0xffff| 0xffff 0xffffffff</PageColor>
-    <PageDisplayPageInfo>0 </PageDisplayPageInfo>
-    <PagePageInfo></PagePageInfo>
-    <PageGraphPaper>0 </PageGraphPaper>
-    <PageGraphPaperLineSpacing>0.25 </PageGraphPaperLineSpacing>
-    <PageGraphPaperLineColor>0x8484 0x7070 0xffff| 0xffff 0xffffffff</PageGraphPaperLineColor>
-    <PageReplayWindowPosition>0 85 169 627 462</PageReplayWindowPosition>
-    <PageGraphCartesian>
-      <ID>234 </ID>
-      <BroadcastTo>0 </BroadcastTo>
-      <Visible>1</Visible>
-      <Bounds>3.07576 3.0075 15.5967 5.9925 </Bounds>
-      <SubordinateToID>0</SubordinateToID>
-      <SubordinateOffset>0 0</SubordinateOffset>
-      <BackgroundTransparent>0</BackgroundTransparent>
-      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
-      <AddNewData>0</AddNewData>
-      <Locked>0</Locked>
-      <AutoCreated>1</AutoCreated>
-      <GraphLinkedIDs>0 </GraphLinkedIDs>
-      <YLinkedIDs>0 </YLinkedIDs>
-      <Font>
-        <Size> 12 </Size>
-        <Justification> 0 </Justification>
-        <VerticalJustification> 0 </VerticalJustification>
-        <Styles> 0 0 0 0 0 0 </Styles>
-        <Family> 3 </Family>
-        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
-        <Name>Arial</Name>
-        <Rotation>0</Rotation>
-      </Font>
-      <GraphTitle>Potential vs. Time</GraphTitle>
-      <GraphTitleColor>0x0 0x0 0x0| 0xffff 0x2e</GraphTitleColor>
-      <GraphShowPoints>0</GraphShowPoints>
-      <GraphInterpolate>0</GraphInterpolate>
-      <GraphShowTangent>0</GraphShowTangent>
-      <GraphShowLegend>0</GraphShowLegend>
-      <GraphShowCursorStatus>1</GraphShowCursorStatus>
-      <GraphShowCursorDelta>1</GraphShowCursorDelta>
-      <GraphPlotBaseColumnID>240 </GraphPlotBaseColumnID>
-      <GraphPlotTraceIDPairs>1 240 242 </GraphPlotTraceIDPairs>
-      <LogXAxis>0</LogXAxis>
-      <LogYAxis>0</LogYAxis>
-      <LogRightYAxis>0</LogRightYAxis>
-      <GraphShowTraceErrorBars>1</GraphShowTraceErrorBars>
-      <GraphShowBaseErrorBars>1</GraphShowBaseErrorBars>
-      <GraphShowUncertaintyBoxes>0</GraphShowUncertaintyBoxes>
-      <GraphConnectLines>0</GraphConnectLines>
-      <GraphBarGraph>1</GraphBarGraph>
-      <BinGraphStackColumns>0</BinGraphStackColumns>
-      <GraphShowPointProtectors>0</GraphShowPointProtectors>
-      <GraphMajorTickStyle>1</GraphMajorTickStyle>
-      <GraphMajorTickColor>0xc0c0 0xc0c0 0xc0c0| 0xffff 0xffffffff</GraphMajorTickColor>
-      <GraphMinorTickStyle>0</GraphMinorTickStyle>
-      <GraphMinorTickColor>0xc0c0 0xc0c0 0xc0c0| 0xffff 0xffffffff</GraphMinorTickColor>
-      <GraphPlotXAutoscale>3</GraphPlotXAutoscale>
-      <GraphPlotYAutoscale>3</GraphPlotYAutoscale>
-      <GraphPlotDoubleYAutoscale>3</GraphPlotDoubleYAutoscale>
-      <GraphPlotXAutoscaleOnFirstData>0</GraphPlotXAutoscaleOnFirstData>
-      <GraphPlotYAutoscaleOnFirstData>0</GraphPlotYAutoscaleOnFirstData>
-      <GraphPlotDoubleYAutoscaleOnFirstData>0</GraphPlotDoubleYAutoscaleOnFirstData>
-      <GraphPlotXAutoscaleHint>0</GraphPlotXAutoscaleHint>
-      <GraphPlotYAutoscaleHint>0</GraphPlotYAutoscaleHint>
-      <GraphPlotDoubleYAutoscaleHint>0</GraphPlotDoubleYAutoscaleHint>
-      <GraphPlotXMin>-1</GraphPlotXMin>
-      <GraphPlotXMax>23</GraphPlotXMax>
-      <GraphPlotXTicksRotatedAngle>0</GraphPlotXTicksRotatedAngle>
-      <ShowAllValuesAsMajorTicks>0</ShowAllValuesAsMajorTicks>
-      <GraphPlotYMin>-0.2</GraphPlotYMin>
-      <GraphPlotYMax>4.6</GraphPlotYMax>
-      <GraphPlotDefaultXMin>-1</GraphPlotDefaultXMin>
-      <GraphPlotDefaultXMax>23</GraphPlotDefaultXMax>
-      <GraphPlotDefaultYMin>-0.2</GraphPlotDefaultYMin>
-      <GraphPlotDefaultYMax>4.6</GraphPlotDefaultYMax>
-      <GraphPlotXLabel></GraphPlotXLabel>
-      <GraphPlotYLabel></GraphPlotYLabel>
-      <GraphDrawRainbow>0</GraphDrawRainbow>
-      <AudioTraceIDs>1 242 </AudioTraceIDs>
-      <GraphPlotDoubleYAxis>0</GraphPlotDoubleYAxis>
-    </PageGraphCartesian>
-    <PageGraphCartesian>
-      <ID>236 </ID>
-      <BroadcastTo>0 </BroadcastTo>
-      <Visible>1</Visible>
-      <Bounds>3.07576 6.0075 15.5967 8.9925 </Bounds>
-      <SubordinateToID>0</SubordinateToID>
-      <SubordinateOffset>0 0</SubordinateOffset>
-      <BackgroundTransparent>0</BackgroundTransparent>
-      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
-      <AddNewData>0</AddNewData>
-      <Locked>0</Locked>
-      <AutoCreated>1</AutoCreated>
-      <GraphLinkedIDs>0 </GraphLinkedIDs>
-      <YLinkedIDs>0 </YLinkedIDs>
-      <Font>
-        <Size> 12 </Size>
-        <Justification> 0 </Justification>
-        <VerticalJustification> 0 </VerticalJustification>
-        <Styles> 0 0 0 0 0 0 </Styles>
-        <Family> 3 </Family>
-        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
-        <Name>Arial</Name>
-        <Rotation>0</Rotation>
-      </Font>
-      <GraphTitle>Potential vs. Time</GraphTitle>
-      <GraphTitleColor>0x0 0x0 0x0| 0xffff 0x2e</GraphTitleColor>
-      <GraphShowPoints>0</GraphShowPoints>
-      <GraphInterpolate>0</GraphInterpolate>
-      <GraphShowTangent>0</GraphShowTangent>
-      <GraphShowLegend>0</GraphShowLegend>
-      <GraphShowCursorStatus>1</GraphShowCursorStatus>
-      <GraphShowCursorDelta>1</GraphShowCursorDelta>
-      <GraphPlotBaseColumnID>240 </GraphPlotBaseColumnID>
-      <GraphPlotTraceIDPairs>1 240 244 </GraphPlotTraceIDPairs>
-      <LogXAxis>0</LogXAxis>
-      <LogYAxis>0</LogYAxis>
-      <LogRightYAxis>0</LogRightYAxis>
-      <GraphShowTraceErrorBars>1</GraphShowTraceErrorBars>
-      <GraphShowBaseErrorBars>1</GraphShowBaseErrorBars>
-      <GraphShowUncertaintyBoxes>0</GraphShowUncertaintyBoxes>
-      <GraphConnectLines>0</GraphConnectLines>
-      <GraphBarGraph>1</GraphBarGraph>
-      <BinGraphStackColumns>0</BinGraphStackColumns>
-      <GraphShowPointProtectors>0</GraphShowPointProtectors>
-      <GraphMajorTickStyle>1</GraphMajorTickStyle>
-      <GraphMajorTickColor>0xc0c0 0xc0c0 0xc0c0| 0xffff 0xffffffff</GraphMajorTickColor>
-      <GraphMinorTickStyle>0</GraphMinorTickStyle>
-      <GraphMinorTickColor>0xc0c0 0xc0c0 0xc0c0| 0xffff 0xffffffff</GraphMinorTickColor>
-      <GraphPlotXAutoscale>3</GraphPlotXAutoscale>
-      <GraphPlotYAutoscale>3</GraphPlotYAutoscale>
-      <GraphPlotDoubleYAutoscale>3</GraphPlotDoubleYAutoscale>
-      <GraphPlotXAutoscaleOnFirstData>0</GraphPlotXAutoscaleOnFirstData>
-      <GraphPlotYAutoscaleOnFirstData>0</GraphPlotYAutoscaleOnFirstData>
-      <GraphPlotDoubleYAutoscaleOnFirstData>0</GraphPlotDoubleYAutoscaleOnFirstData>
-      <GraphPlotXAutoscaleHint>0</GraphPlotXAutoscaleHint>
-      <GraphPlotYAutoscaleHint>0</GraphPlotYAutoscaleHint>
-      <GraphPlotDoubleYAutoscaleHint>0</GraphPlotDoubleYAutoscaleHint>
-      <GraphPlotXMin>-1</GraphPlotXMin>
-      <GraphPlotXMax>23</GraphPlotXMax>
-      <GraphPlotXTicksRotatedAngle>0</GraphPlotXTicksRotatedAngle>
-      <ShowAllValuesAsMajorTicks>0</ShowAllValuesAsMajorTicks>
-      <GraphPlotYMin>-0.1</GraphPlotYMin>
-      <GraphPlotYMax>0.6</GraphPlotYMax>
-      <GraphPlotDefaultXMin>-1</GraphPlotDefaultXMin>
-      <GraphPlotDefaultXMax>23</GraphPlotDefaultXMax>
-      <GraphPlotDefaultYMin>-0.1</GraphPlotDefaultYMin>
-      <GraphPlotDefaultYMax>0.6</GraphPlotDefaultYMax>
-      <GraphPlotXLabel></GraphPlotXLabel>
-      <GraphPlotYLabel></GraphPlotYLabel>
-      <GraphDrawRainbow>0</GraphDrawRainbow>
-      <AudioTraceIDs>1 244 </AudioTraceIDs>
-      <GraphPlotDoubleYAxis>0</GraphPlotDoubleYAxis>
-    </PageGraphCartesian>
     <PageGraphCartesian>
       <ID>232 </ID>
       <BroadcastTo>1 285 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>3.07576 0.0075 15.5967 2.9925 </Bounds>
+      <Bounds>3.93402000001 0.00845486000003 19.9488 3.37349000001 </Bounds>
       <SubordinateToID>0</SubordinateToID>
       <SubordinateOffset>0 0</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -1048,7 +995,7 @@ Matthew Hovis</TextText>
         <Name>Arial</Name>
         <Rotation>0</Rotation>
       </Font>
-      <GraphTitle>Potential vs. Current</GraphTitle>
+      <GraphTitle>Potential vs. Current (2 Resistor Parallel)</GraphTitle>
       <GraphTitleColor>0x0 0x0 0x0| 0xffff 0x2e</GraphTitleColor>
       <GraphShowPoints>0</GraphShowPoints>
       <GraphInterpolate>0</GraphInterpolate>
@@ -1101,9 +1048,9 @@ Matthew Hovis</TextText>
       <ID>285 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>6.90388 1.24708 9.24166125 2.33067375 </Bounds>
+      <Bounds>6.99700000001 0.676684860002 9.55100488282 1.79027861 </Bounds>
       <SubordinateToID>232</SubordinateToID>
-      <SubordinateOffset>3.82812 1.23958</SubordinateOffset>
+      <SubordinateOffset>3.06298000001 0.668230000002</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
       <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
       <AddNewData>0</AddNewData>
@@ -1132,62 +1079,19 @@ Matthew Hovis</TextText>
       <GUIHelperUnderlyingHistogramFFTColumnID>0</GUIHelperUnderlyingHistogramFFTColumnID>
       <CurveFitFunctionID>286</CurveFitFunctionID>
       <CurveFitColumnID>0</CurveFitColumnID>
-      <CurveFitError>0.00584378</CurveFitError>
+      <CurveFitError>0.0058135</CurveFitError>
       <CurveFitMethod>1</CurveFitMethod>
-      <CurveFitUncertainty>0</CurveFitUncertainty>
+      <CurveFitUncertainty>1</CurveFitUncertainty>
       <ManualCurveFitIncrements>0 </ManualCurveFitIncrements>
       <ManualCurveFitShowRMSE>1</ManualCurveFitShowRMSE>
       <ManualCurveFitWeightColumnId>4294967295</ManualCurveFitWeightColumnId>
       <CurveFitCorrelation>0.99999</CurveFitCorrelation>
     </PageHelperDataCurveFit>
-    <PageTable>
-      <ID>238 </ID>
-      <BroadcastTo>0 </BroadcastTo>
-      <Visible>1</Visible>
-      <Bounds>0.005625 0.005625 3.06263 8.99437 </Bounds>
-      <SubordinateToID>0</SubordinateToID>
-      <SubordinateOffset>0 0</SubordinateOffset>
-      <BackgroundTransparent>0</BackgroundTransparent>
-      <BackgroundColor>0xdada 0xdada 0xdada| 0xffff 0xffffffff</BackgroundColor>
-      <AddNewData>1</AddNewData>
-      <Locked>0</Locked>
-      <AutoCreated>0</AutoCreated>
-      <GraphLinkedIDs>0 </GraphLinkedIDs>
-      <YLinkedIDs>0 </YLinkedIDs>
-      <Font>
-        <Size> 12 </Size>
-        <Justification> 2 </Justification>
-        <VerticalJustification> 0 </VerticalJustification>
-        <Styles> 0 0 0 0 0 0 </Styles>
-        <Family> 3 </Family>
-        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
-        <Name>Arial</Name>
-        <Rotation>0</Rotation>
-      </Font>
-      <TableColumn> 240 0.8 </TableColumn>
-      <TableColumn> 242 0.8 </TableColumn>
-      <TableColumn> 244 0.8 </TableColumn>
-      <StartIndex> 0 </StartIndex>
-      <DisplayBlackAndWhite> 0 </DisplayBlackAndWhite>
-    </PageTable>
-  </Page>
-  <Page>
-    <ID>259 </ID>
-    <BroadcastTo>0 </BroadcastTo>
-    <Visible>0</Visible>
-    <PageTitle>parallel_3</PageTitle>
-    <PageColor>0xcccc 0xcccc 0xffff| 0xffff 0xffffffff</PageColor>
-    <PageDisplayPageInfo>0 </PageDisplayPageInfo>
-    <PagePageInfo></PagePageInfo>
-    <PageGraphPaper>0 </PageGraphPaper>
-    <PageGraphPaperLineSpacing>0.25 </PageGraphPaperLineSpacing>
-    <PageGraphPaperLineColor>0x8484 0x7070 0xffff| 0xffff 0xffffffff</PageGraphPaperLineColor>
-    <PageReplayWindowPosition>0 85 169 627 462</PageReplayWindowPosition>
     <PageGraphCartesian>
-      <ID>267 </ID>
+      <ID>234 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>3.07575 3.0075 15.5967 5.9925 </Bounds>
+      <Bounds>3.93402000001 3.39040000001 19.9488 6.75543000002 </Bounds>
       <SubordinateToID>0</SubordinateToID>
       <SubordinateOffset>0 0</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -1207,7 +1111,7 @@ Matthew Hovis</TextText>
         <Name>Arial</Name>
         <Rotation>0</Rotation>
       </Font>
-      <GraphTitle>Current vs. Time</GraphTitle>
+      <GraphTitle>Potential vs. Time  (2 Resistor Parallel)</GraphTitle>
       <GraphTitleColor>0x0 0x0 0x0| 0xffff 0x2e</GraphTitleColor>
       <GraphShowPoints>0</GraphShowPoints>
       <GraphInterpolate>0</GraphInterpolate>
@@ -1215,8 +1119,8 @@ Matthew Hovis</TextText>
       <GraphShowLegend>0</GraphShowLegend>
       <GraphShowCursorStatus>1</GraphShowCursorStatus>
       <GraphShowCursorDelta>1</GraphShowCursorDelta>
-      <GraphPlotBaseColumnID>273 </GraphPlotBaseColumnID>
-      <GraphPlotTraceIDPairs>1 273 277 </GraphPlotTraceIDPairs>
+      <GraphPlotBaseColumnID>240 </GraphPlotBaseColumnID>
+      <GraphPlotTraceIDPairs>1 240 242 </GraphPlotTraceIDPairs>
       <LogXAxis>0</LogXAxis>
       <LogYAxis>0</LogYAxis>
       <LogRightYAxis>0</LogRightYAxis>
@@ -1241,26 +1145,26 @@ Matthew Hovis</TextText>
       <GraphPlotYAutoscaleHint>0</GraphPlotYAutoscaleHint>
       <GraphPlotDoubleYAutoscaleHint>0</GraphPlotDoubleYAutoscaleHint>
       <GraphPlotXMin>-1</GraphPlotXMin>
-      <GraphPlotXMax>21</GraphPlotXMax>
+      <GraphPlotXMax>23</GraphPlotXMax>
       <GraphPlotXTicksRotatedAngle>0</GraphPlotXTicksRotatedAngle>
       <ShowAllValuesAsMajorTicks>0</ShowAllValuesAsMajorTicks>
-      <GraphPlotYMin>-0.1</GraphPlotYMin>
-      <GraphPlotYMax>0.7</GraphPlotYMax>
+      <GraphPlotYMin>-0.2</GraphPlotYMin>
+      <GraphPlotYMax>4.6</GraphPlotYMax>
       <GraphPlotDefaultXMin>-1</GraphPlotDefaultXMin>
-      <GraphPlotDefaultXMax>21</GraphPlotDefaultXMax>
-      <GraphPlotDefaultYMin>-0.1</GraphPlotDefaultYMin>
-      <GraphPlotDefaultYMax>0.7</GraphPlotDefaultYMax>
+      <GraphPlotDefaultXMax>23</GraphPlotDefaultXMax>
+      <GraphPlotDefaultYMin>-0.2</GraphPlotDefaultYMin>
+      <GraphPlotDefaultYMax>4.6</GraphPlotDefaultYMax>
       <GraphPlotXLabel></GraphPlotXLabel>
       <GraphPlotYLabel></GraphPlotYLabel>
       <GraphDrawRainbow>0</GraphDrawRainbow>
-      <AudioTraceIDs>1 277 </AudioTraceIDs>
+      <AudioTraceIDs>1 242 </AudioTraceIDs>
       <GraphPlotDoubleYAxis>0</GraphPlotDoubleYAxis>
     </PageGraphCartesian>
     <PageGraphCartesian>
-      <ID>265 </ID>
-      <BroadcastTo>1 290 </BroadcastTo>
+      <ID>236 </ID>
+      <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>3.07575 0.0075 15.5967 2.9925 </Bounds>
+      <Bounds>3.93402000001 6.77234000002 19.9488 10.1374 </Bounds>
       <SubordinateToID>0</SubordinateToID>
       <SubordinateOffset>0 0</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -1280,7 +1184,123 @@ Matthew Hovis</TextText>
         <Name>Arial</Name>
         <Rotation>0</Rotation>
       </Font>
-      <GraphTitle>Potential vs. Current</GraphTitle>
+      <GraphTitle>Potential vs. Time  (2 Resistor Parallel)</GraphTitle>
+      <GraphTitleColor>0x0 0x0 0x0| 0xffff 0x2e</GraphTitleColor>
+      <GraphShowPoints>0</GraphShowPoints>
+      <GraphInterpolate>0</GraphInterpolate>
+      <GraphShowTangent>0</GraphShowTangent>
+      <GraphShowLegend>0</GraphShowLegend>
+      <GraphShowCursorStatus>1</GraphShowCursorStatus>
+      <GraphShowCursorDelta>1</GraphShowCursorDelta>
+      <GraphPlotBaseColumnID>240 </GraphPlotBaseColumnID>
+      <GraphPlotTraceIDPairs>1 240 244 </GraphPlotTraceIDPairs>
+      <LogXAxis>0</LogXAxis>
+      <LogYAxis>0</LogYAxis>
+      <LogRightYAxis>0</LogRightYAxis>
+      <GraphShowTraceErrorBars>1</GraphShowTraceErrorBars>
+      <GraphShowBaseErrorBars>1</GraphShowBaseErrorBars>
+      <GraphShowUncertaintyBoxes>0</GraphShowUncertaintyBoxes>
+      <GraphConnectLines>0</GraphConnectLines>
+      <GraphBarGraph>1</GraphBarGraph>
+      <BinGraphStackColumns>0</BinGraphStackColumns>
+      <GraphShowPointProtectors>0</GraphShowPointProtectors>
+      <GraphMajorTickStyle>1</GraphMajorTickStyle>
+      <GraphMajorTickColor>0xc0c0 0xc0c0 0xc0c0| 0xffff 0xffffffff</GraphMajorTickColor>
+      <GraphMinorTickStyle>0</GraphMinorTickStyle>
+      <GraphMinorTickColor>0xc0c0 0xc0c0 0xc0c0| 0xffff 0xffffffff</GraphMinorTickColor>
+      <GraphPlotXAutoscale>3</GraphPlotXAutoscale>
+      <GraphPlotYAutoscale>3</GraphPlotYAutoscale>
+      <GraphPlotDoubleYAutoscale>3</GraphPlotDoubleYAutoscale>
+      <GraphPlotXAutoscaleOnFirstData>0</GraphPlotXAutoscaleOnFirstData>
+      <GraphPlotYAutoscaleOnFirstData>0</GraphPlotYAutoscaleOnFirstData>
+      <GraphPlotDoubleYAutoscaleOnFirstData>0</GraphPlotDoubleYAutoscaleOnFirstData>
+      <GraphPlotXAutoscaleHint>0</GraphPlotXAutoscaleHint>
+      <GraphPlotYAutoscaleHint>0</GraphPlotYAutoscaleHint>
+      <GraphPlotDoubleYAutoscaleHint>0</GraphPlotDoubleYAutoscaleHint>
+      <GraphPlotXMin>-1</GraphPlotXMin>
+      <GraphPlotXMax>23</GraphPlotXMax>
+      <GraphPlotXTicksRotatedAngle>0</GraphPlotXTicksRotatedAngle>
+      <ShowAllValuesAsMajorTicks>0</ShowAllValuesAsMajorTicks>
+      <GraphPlotYMin>-0.1</GraphPlotYMin>
+      <GraphPlotYMax>0.6</GraphPlotYMax>
+      <GraphPlotDefaultXMin>-1</GraphPlotDefaultXMin>
+      <GraphPlotDefaultXMax>23</GraphPlotDefaultXMax>
+      <GraphPlotDefaultYMin>-0.1</GraphPlotDefaultYMin>
+      <GraphPlotDefaultYMax>0.6</GraphPlotDefaultYMax>
+      <GraphPlotXLabel></GraphPlotXLabel>
+      <GraphPlotYLabel></GraphPlotYLabel>
+      <GraphDrawRainbow>0</GraphDrawRainbow>
+      <AudioTraceIDs>1 244 </AudioTraceIDs>
+      <GraphPlotDoubleYAxis>0</GraphPlotDoubleYAxis>
+    </PageGraphCartesian>
+  </Page>
+  <Page>
+    <ID>259 </ID>
+    <BroadcastTo>0 </BroadcastTo>
+    <Visible>0</Visible>
+    <PageTitle>parallel_3</PageTitle>
+    <PageColor>0xcccc 0xcccc 0xffff| 0xffff 0xffffffff</PageColor>
+    <PageDisplayPageInfo>0 </PageDisplayPageInfo>
+    <PagePageInfo></PagePageInfo>
+    <PageGraphPaper>0 </PageGraphPaper>
+    <PageGraphPaperLineSpacing>0.25 </PageGraphPaperLineSpacing>
+    <PageGraphPaperLineColor>0x8484 0x7070 0xffff| 0xffff 0xffffffff</PageGraphPaperLineColor>
+    <PageReplayWindowPosition>0 34 49 308 203</PageReplayWindowPosition>
+    <PageTable>
+      <ID>269 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>0.00719459000001 0.00634115000002 3.91722000001 10.1395 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0 0</SubordinateOffset>
+      <BackgroundTransparent>0</BackgroundTransparent>
+      <BackgroundColor>0xdada 0xdada 0xdada| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>1</AddNewData>
+      <Locked>0</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+        <Size> 12 </Size>
+        <Justification> 2 </Justification>
+        <VerticalJustification> 0 </VerticalJustification>
+        <Styles> 0 0 0 0 0 0 </Styles>
+        <Family> 3 </Family>
+        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+        <Name>Arial</Name>
+        <Rotation>0</Rotation>
+      </Font>
+      <TableColumn> 273 1.02323 </TableColumn>
+      <TableColumn> 275 1.02323 </TableColumn>
+      <TableColumn> 277 1.02323 </TableColumn>
+      <StartIndex> 0 </StartIndex>
+      <DisplayBlackAndWhite> 0 </DisplayBlackAndWhite>
+    </PageTable>
+    <PageGraphCartesian>
+      <ID>265 </ID>
+      <BroadcastTo>1 290 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>3.93400000001 0.00845486000003 19.9488 3.37349000001 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0 0</SubordinateOffset>
+      <BackgroundTransparent>0</BackgroundTransparent>
+      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>0</AddNewData>
+      <Locked>0</Locked>
+      <AutoCreated>1</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+        <Size> 12 </Size>
+        <Justification> 0 </Justification>
+        <VerticalJustification> 0 </VerticalJustification>
+        <Styles> 0 0 0 0 0 0 </Styles>
+        <Family> 3 </Family>
+        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+        <Name>Arial</Name>
+        <Rotation>0</Rotation>
+      </Font>
+      <GraphTitle>Potential vs. Current (3 Resistor Parallel)</GraphTitle>
       <GraphTitleColor>0x0 0x0 0x0| 0xffff 0x2e</GraphTitleColor>
       <GraphShowPoints>0</GraphShowPoints>
       <GraphInterpolate>0</GraphInterpolate>
@@ -1333,9 +1353,9 @@ Matthew Hovis</TextText>
       <ID>290 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>4.71637 0.497083 7.24867029297 1.58067675 </Bounds>
+      <Bounds>6.03242000001 0.560368860002 8.63297029298 1.67396261 </Bounds>
       <SubordinateToID>265</SubordinateToID>
-      <SubordinateOffset>1.64062 0.489583</SubordinateOffset>
+      <SubordinateOffset>2.09842 0.551914000002</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
       <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
       <AddNewData>0</AddNewData>
@@ -1373,10 +1393,10 @@ Matthew Hovis</TextText>
       <CurveFitCorrelation>0.999995</CurveFitCorrelation>
     </PageHelperDataCurveFit>
     <PageGraphCartesian>
-      <ID>271 </ID>
+      <ID>267 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>3.07575 6.0075 15.5967 8.9925 </Bounds>
+      <Bounds>3.93400000001 3.39040000001 19.9488 6.75543000002 </Bounds>
       <SubordinateToID>0</SubordinateToID>
       <SubordinateOffset>0 0</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -1396,7 +1416,80 @@ Matthew Hovis</TextText>
         <Name>Arial</Name>
         <Rotation>0</Rotation>
       </Font>
-      <GraphTitle>Potential vs. Time</GraphTitle>
+      <GraphTitle>Current vs. Time (3 Resistor Parallel)</GraphTitle>
+      <GraphTitleColor>0x0 0x0 0x0| 0xffff 0x2e</GraphTitleColor>
+      <GraphShowPoints>0</GraphShowPoints>
+      <GraphInterpolate>0</GraphInterpolate>
+      <GraphShowTangent>0</GraphShowTangent>
+      <GraphShowLegend>0</GraphShowLegend>
+      <GraphShowCursorStatus>1</GraphShowCursorStatus>
+      <GraphShowCursorDelta>1</GraphShowCursorDelta>
+      <GraphPlotBaseColumnID>273 </GraphPlotBaseColumnID>
+      <GraphPlotTraceIDPairs>1 273 277 </GraphPlotTraceIDPairs>
+      <LogXAxis>0</LogXAxis>
+      <LogYAxis>0</LogYAxis>
+      <LogRightYAxis>0</LogRightYAxis>
+      <GraphShowTraceErrorBars>1</GraphShowTraceErrorBars>
+      <GraphShowBaseErrorBars>1</GraphShowBaseErrorBars>
+      <GraphShowUncertaintyBoxes>0</GraphShowUncertaintyBoxes>
+      <GraphConnectLines>0</GraphConnectLines>
+      <GraphBarGraph>1</GraphBarGraph>
+      <BinGraphStackColumns>0</BinGraphStackColumns>
+      <GraphShowPointProtectors>0</GraphShowPointProtectors>
+      <GraphMajorTickStyle>1</GraphMajorTickStyle>
+      <GraphMajorTickColor>0xc0c0 0xc0c0 0xc0c0| 0xffff 0xffffffff</GraphMajorTickColor>
+      <GraphMinorTickStyle>0</GraphMinorTickStyle>
+      <GraphMinorTickColor>0xc0c0 0xc0c0 0xc0c0| 0xffff 0xffffffff</GraphMinorTickColor>
+      <GraphPlotXAutoscale>3</GraphPlotXAutoscale>
+      <GraphPlotYAutoscale>3</GraphPlotYAutoscale>
+      <GraphPlotDoubleYAutoscale>3</GraphPlotDoubleYAutoscale>
+      <GraphPlotXAutoscaleOnFirstData>0</GraphPlotXAutoscaleOnFirstData>
+      <GraphPlotYAutoscaleOnFirstData>0</GraphPlotYAutoscaleOnFirstData>
+      <GraphPlotDoubleYAutoscaleOnFirstData>0</GraphPlotDoubleYAutoscaleOnFirstData>
+      <GraphPlotXAutoscaleHint>0</GraphPlotXAutoscaleHint>
+      <GraphPlotYAutoscaleHint>0</GraphPlotYAutoscaleHint>
+      <GraphPlotDoubleYAutoscaleHint>0</GraphPlotDoubleYAutoscaleHint>
+      <GraphPlotXMin>-1</GraphPlotXMin>
+      <GraphPlotXMax>21</GraphPlotXMax>
+      <GraphPlotXTicksRotatedAngle>0</GraphPlotXTicksRotatedAngle>
+      <ShowAllValuesAsMajorTicks>0</ShowAllValuesAsMajorTicks>
+      <GraphPlotYMin>-0.1</GraphPlotYMin>
+      <GraphPlotYMax>0.7</GraphPlotYMax>
+      <GraphPlotDefaultXMin>-1</GraphPlotDefaultXMin>
+      <GraphPlotDefaultXMax>21</GraphPlotDefaultXMax>
+      <GraphPlotDefaultYMin>-0.1</GraphPlotDefaultYMin>
+      <GraphPlotDefaultYMax>0.7</GraphPlotDefaultYMax>
+      <GraphPlotXLabel></GraphPlotXLabel>
+      <GraphPlotYLabel></GraphPlotYLabel>
+      <GraphDrawRainbow>0</GraphDrawRainbow>
+      <AudioTraceIDs>1 277 </AudioTraceIDs>
+      <GraphPlotDoubleYAxis>0</GraphPlotDoubleYAxis>
+    </PageGraphCartesian>
+    <PageGraphCartesian>
+      <ID>271 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>3.93400000001 6.77234000002 19.9488 10.1374 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0 0</SubordinateOffset>
+      <BackgroundTransparent>0</BackgroundTransparent>
+      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>0</AddNewData>
+      <Locked>0</Locked>
+      <AutoCreated>1</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+        <Size> 12 </Size>
+        <Justification> 0 </Justification>
+        <VerticalJustification> 0 </VerticalJustification>
+        <Styles> 0 0 0 0 0 0 </Styles>
+        <Family> 3 </Family>
+        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+        <Name>Arial</Name>
+        <Rotation>0</Rotation>
+      </Font>
+      <GraphTitle>Potential vs. Time (3 Resistor Parallel)</GraphTitle>
       <GraphTitleColor>0x0 0x0 0x0| 0xffff 0x2e</GraphTitleColor>
       <GraphShowPoints>0</GraphShowPoints>
       <GraphInterpolate>0</GraphInterpolate>
@@ -1445,41 +1538,11 @@ Matthew Hovis</TextText>
       <AudioTraceIDs>1 275 </AudioTraceIDs>
       <GraphPlotDoubleYAxis>0</GraphPlotDoubleYAxis>
     </PageGraphCartesian>
-    <PageTable>
-      <ID>269 </ID>
-      <BroadcastTo>0 </BroadcastTo>
-      <Visible>1</Visible>
-      <Bounds>0.005625 0.005625 3.06263 8.99437 </Bounds>
-      <SubordinateToID>0</SubordinateToID>
-      <SubordinateOffset>0 0</SubordinateOffset>
-      <BackgroundTransparent>0</BackgroundTransparent>
-      <BackgroundColor>0xdada 0xdada 0xdada| 0xffff 0xffffffff</BackgroundColor>
-      <AddNewData>1</AddNewData>
-      <Locked>0</Locked>
-      <AutoCreated>0</AutoCreated>
-      <GraphLinkedIDs>0 </GraphLinkedIDs>
-      <YLinkedIDs>0 </YLinkedIDs>
-      <Font>
-        <Size> 12 </Size>
-        <Justification> 2 </Justification>
-        <VerticalJustification> 0 </VerticalJustification>
-        <Styles> 0 0 0 0 0 0 </Styles>
-        <Family> 3 </Family>
-        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
-        <Name>Arial</Name>
-        <Rotation>0</Rotation>
-      </Font>
-      <TableColumn> 273 0.8 </TableColumn>
-      <TableColumn> 275 0.8 </TableColumn>
-      <TableColumn> 277 0.8 </TableColumn>
-      <StartIndex> 0 </StartIndex>
-      <DisplayBlackAndWhite> 0 </DisplayBlackAndWhite>
-    </PageTable>
   </Page>
   <Page>
     <ID>1158 </ID>
     <BroadcastTo>0 </BroadcastTo>
-    <Visible>0</Visible>
+    <Visible>1</Visible>
     <PageTitle>Uncertainties</PageTitle>
     <PageColor>0xcccc 0xcccc 0xffff| 0xffff 0xffffffff</PageColor>
     <PageDisplayPageInfo>0 </PageDisplayPageInfo>
@@ -1487,14 +1550,14 @@ Matthew Hovis</TextText>
     <PageGraphPaper>0 </PageGraphPaper>
     <PageGraphPaperLineSpacing>0.25 </PageGraphPaperLineSpacing>
     <PageGraphPaperLineColor>0x8484 0x7070 0xffff| 0xffff 0xffffffff</PageGraphPaperLineColor>
-    <PageReplayWindowPosition>0 85 169 627 462</PageReplayWindowPosition>
+    <PageReplayWindowPosition>0 -1866 91 -1592 245</PageReplayWindowPosition>
     <PageTable>
       <ID>1159 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>3.67219966667 0.00520833333333 15.5572916667 2.00520833333 </Bounds>
+      <Bounds>4.69689000001 0.00587143000002 19.8984 2.26050000001 </Bounds>
       <SubordinateToID>0</SubordinateToID>
-      <SubordinateOffset>5.66666833333 -2.734375</SubordinateOffset>
+      <SubordinateOffset>5.66667 -2.73438</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
       <BackgroundColor>0xdada 0xdada 0xdada| 0xffff 0xffffffff</BackgroundColor>
       <AddNewData>1</AddNewData>
@@ -1512,28 +1575,28 @@ Matthew Hovis</TextText>
         <Name>Arial</Name>
         <Rotation>0</Rotation>
       </Font>
-      <TableColumn> 116 0.8 </TableColumn>
-      <TableColumn> 1398 0.8 </TableColumn>
-      <TableColumn> 1497 0.8 </TableColumn>
-      <TableColumn> 1598 0.8 </TableColumn>
-      <TableColumn> 1602 0.8 </TableColumn>
-      <TableColumn> 1606 0.8 </TableColumn>
-      <TableColumn> 1252 0.8 </TableColumn>
-      <TableColumn> 1355 0.8 </TableColumn>
-      <TableColumn> 1390 0.8 </TableColumn>
-      <TableColumn> 1394 0.8 </TableColumn>
+      <TableColumn> 116 1.02323 </TableColumn>
+      <TableColumn> 1398 1.02323 </TableColumn>
+      <TableColumn> 1497 1.02323 </TableColumn>
+      <TableColumn> 1598 1.02323 </TableColumn>
+      <TableColumn> 1602 1.02323 </TableColumn>
+      <TableColumn> 1606 1.02323 </TableColumn>
+      <TableColumn> 1252 1.02323 </TableColumn>
+      <TableColumn> 1355 1.02323 </TableColumn>
+      <TableColumn> 1390 1.02323 </TableColumn>
+      <TableColumn> 1394 1.02323 </TableColumn>
       <StartIndex> 0 </StartIndex>
       <DisplayBlackAndWhite> 0 </DisplayBlackAndWhite>
     </PageTable>
-    <PageGraphCartesian>
-      <ID>1615 </ID>
+    <PageText>
+      <ID>1714 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>3.65625 1.98958333333 15.546875 8.94791666667 </Bounds>
+      <Bounds>0.0458333000001 0.191667000001 4.66042000001 2.77500000001 </Bounds>
       <SubordinateToID>0</SubordinateToID>
-      <SubordinateOffset>2.72395833333 0.239583333333</SubordinateOffset>
+      <SubordinateOffset>-1.70833 -1.70833</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
-      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0x0</BackgroundColor>
+      <BackgroundColor>0xffff 0xe1e1 0xffff| 0xffff 0xffffffff</BackgroundColor>
       <AddNewData>0</AddNewData>
       <Locked>0</Locked>
       <AutoCreated>0</AutoCreated>
@@ -1549,8 +1612,167 @@ Matthew Hovis</TextText>
         <Name>Arial</Name>
         <Rotation>0</Rotation>
       </Font>
-      <GraphTitle></GraphTitle>
-      <GraphTitleColor>0x0 0x0 0x0| 0xffff 0x2e</GraphTitleColor>
+      <Font>
+        <Size> 12 </Size>
+        <Justification> 0 </Justification>
+        <VerticalJustification> 0 </VerticalJustification>
+        <Styles> 0 0 0 0 0 0 </Styles>
+        <Family> 3 </Family>
+        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+        <Name>Arial</Name>
+        <Rotation>0</Rotation>
+      </Font>
+      <TextText>Uncertainty:
+
+Since we made the assumption that our DC power supply and that the LabQuest mini recording interface is accurate, we do not have any systematic uncertainties. Values recorded from different methods (python, logger pro, fluke meter, and the resistor color codes) all fall within a range of 1-2 ohms of each other. Of the uncertainties displayed, those calculated by python and logger pro were much smaller than the fluke meter or color code predictions. Overall, the python uncertainties are the tightest and most trustworthy.</TextText>
+      <StyleRun>
+        <Start> 0 </Start>
+        <End> 541 </End>
+        <Font>
+          <Size> 12 </Size>
+          <Justification> 0 </Justification>
+          <VerticalJustification> 0 </VerticalJustification>
+          <Styles> 0 0 0 0 0 0 </Styles>
+          <Family> 3 </Family>
+          <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+          <Name>Arial</Name>
+          <Rotation>0</Rotation>
+        </Font>
+      </StyleRun>
+      <TextMakeAllTextVisible> 1 </TextMakeAllTextVisible>
+    </PageText>
+    <PageText>
+      <ID>1715 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>0.0625000000001 2.82292000001 4.63542000001 5.36458000002 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>-2.88542 0.322917</SubordinateOffset>
+      <BackgroundTransparent>0</BackgroundTransparent>
+      <BackgroundColor>0xffff 0xe1e1 0xffff| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>0</AddNewData>
+      <Locked>0</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+        <Size> 12 </Size>
+        <Justification> 0 </Justification>
+        <VerticalJustification> 0 </VerticalJustification>
+        <Styles> 0 0 0 0 0 0 </Styles>
+        <Family> 3 </Family>
+        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+        <Name>Arial</Name>
+        <Rotation>0</Rotation>
+      </Font>
+      <Font>
+        <Size> 12 </Size>
+        <Justification> 0 </Justification>
+        <VerticalJustification> 0 </VerticalJustification>
+        <Styles> 0 0 0 0 0 0 </Styles>
+        <Family> 3 </Family>
+        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+        <Name>Arial</Name>
+        <Rotation>0</Rotation>
+      </Font>
+      <TextText>Results Analysis:
+
+Based on the formula to calculate resistance in series, we expected our 2 resistors in series and our 3 resistors to be 61 ohms (10 + 51) and 129 ohms (10 + 51 + 68) respectively. With our mathematical model based on the fluke meter, we found these values to be 61 and 128.2 with uncertainties of .224 and .374 ohms. We found similar values with python (60.26 +/- .05688 and 126.4 +/- .00324) and logger pro (60.26 +/- .028 and 126.4 +/- .0237), with this we can conclude that the theoretical model for resistance in series is accurate. As seen by the data displayed to the right, we can come to the same conclusion for our theoretical model to calculate resistance in parallel.</TextText>
+      <StyleRun>
+        <Start> 0 </Start>
+        <End> 699 </End>
+        <Font>
+          <Size> 12 </Size>
+          <Justification> 0 </Justification>
+          <VerticalJustification> 0 </VerticalJustification>
+          <Styles> 0 0 0 0 0 0 </Styles>
+          <Family> 3 </Family>
+          <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+          <Name>Arial</Name>
+          <Rotation>0</Rotation>
+        </Font>
+      </StyleRun>
+      <TextMakeAllTextVisible> 1 </TextMakeAllTextVisible>
+    </PageText>
+    <PageText>
+      <ID>1716 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>0.0833333000001 5.39167000002 4.59375000001 7.05833000002 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>-3.92708 2.29167</SubordinateOffset>
+      <BackgroundTransparent>0</BackgroundTransparent>
+      <BackgroundColor>0xffff 0xe1e1 0xffff| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>0</AddNewData>
+      <Locked>0</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+        <Size> 12 </Size>
+        <Justification> 0 </Justification>
+        <VerticalJustification> 0 </VerticalJustification>
+        <Styles> 0 0 0 0 0 0 </Styles>
+        <Family> 3 </Family>
+        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+        <Name>Arial</Name>
+        <Rotation>0</Rotation>
+      </Font>
+      <Font>
+        <Size> 12 </Size>
+        <Justification> 0 </Justification>
+        <VerticalJustification> 0 </VerticalJustification>
+        <Styles> 0 0 0 0 0 0 </Styles>
+        <Family> 3 </Family>
+        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+        <Name>Arial</Name>
+        <Rotation>0</Rotation>
+      </Font>
+      <TextText>Future recommendations:
+
+Test the available resistors with the fluke meter and choose whatever is the most accurate. Additionally, utilize the Logger Pro dataset and page options, since this experiment has several similar runs.</TextText>
+      <StyleRun>
+        <Start> 0 </Start>
+        <End> 229 </End>
+        <Font>
+          <Size> 12 </Size>
+          <Justification> 0 </Justification>
+          <VerticalJustification> 0 </VerticalJustification>
+          <Styles> 0 0 0 0 0 0 </Styles>
+          <Family> 3 </Family>
+          <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+          <Name>Arial</Name>
+          <Rotation>0</Rotation>
+        </Font>
+      </StyleRun>
+      <TextMakeAllTextVisible> 1 </TextMakeAllTextVisible>
+    </PageText>
+    <PageGraphCartesian>
+      <ID>1615 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>4.67649000001 2.24289000001 19.8851 10.0871 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>2.72396 0.239583</SubordinateOffset>
+      <BackgroundTransparent>0</BackgroundTransparent>
+      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>0</AddNewData>
+      <Locked>0</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+        <Size> 12 </Size>
+        <Justification> 0 </Justification>
+        <VerticalJustification> 0 </VerticalJustification>
+        <Styles> 0 0 0 0 0 0 </Styles>
+        <Family> 3 </Family>
+        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+        <Name>Arial</Name>
+        <Rotation>0</Rotation>
+      </Font>
+      <GraphTitle>Comparison of Methods (including uncertainty)</GraphTitle>
+      <GraphTitleColor>0x0 0x0 0x0| 0xffff 0x0</GraphTitleColor>
       <GraphShowPoints>0</GraphShowPoints>
       <GraphInterpolate>0</GraphInterpolate>
       <GraphShowTangent>0</GraphShowTangent>
@@ -1570,9 +1792,9 @@ Matthew Hovis</TextText>
       <BinGraphStackColumns>0</BinGraphStackColumns>
       <GraphShowPointProtectors>0</GraphShowPointProtectors>
       <GraphMajorTickStyle>1</GraphMajorTickStyle>
-      <GraphMajorTickColor>0xc0c0 0xc0c0 0xc0c0| 0xffff 0xffffffff</GraphMajorTickColor>
+      <GraphMajorTickColor>0xc0c0 0xc0c0 0xc0c0| 0xffff 0x0</GraphMajorTickColor>
       <GraphMinorTickStyle>0</GraphMinorTickStyle>
-      <GraphMinorTickColor>0xc0c0 0xc0c0 0xc0c0| 0xffff 0xffffffff</GraphMinorTickColor>
+      <GraphMinorTickColor>0xc0c0 0xc0c0 0xc0c0| 0xffff 0x0</GraphMinorTickColor>
       <GraphPlotXAutoscale>3</GraphPlotXAutoscale>
       <GraphPlotYAutoscale>3</GraphPlotYAutoscale>
       <GraphPlotDoubleYAutoscale>3</GraphPlotDoubleYAutoscale>
@@ -1588,10 +1810,10 @@ Matthew Hovis</TextText>
       <ShowAllValuesAsMajorTicks>0</ShowAllValuesAsMajorTicks>
       <GraphPlotYMin>0</GraphPlotYMin>
       <GraphPlotYMax>140</GraphPlotYMax>
-      <GraphPlotDefaultXMin>-1</GraphPlotDefaultXMin>
-      <GraphPlotDefaultXMax>21</GraphPlotDefaultXMax>
-      <GraphPlotDefaultYMin>-0.2</GraphPlotDefaultYMin>
-      <GraphPlotDefaultYMax>4.6</GraphPlotDefaultYMax>
+      <GraphPlotDefaultXMin>0.4</GraphPlotDefaultXMin>
+      <GraphPlotDefaultXMax>4.6</GraphPlotDefaultXMax>
+      <GraphPlotDefaultYMin>0</GraphPlotDefaultYMin>
+      <GraphPlotDefaultYMax>140</GraphPlotDefaultYMax>
       <GraphPlotXLabel></GraphPlotXLabel>
       <GraphPlotYLabel></GraphPlotYLabel>
       <GraphDrawRainbow>0</GraphDrawRainbow>
@@ -1604,20 +1826,20 @@ Matthew Hovis</TextText>
     <BroadcastTo>0 </BroadcastTo>
     <Visible>0</Visible>
     <PageTitle>Extension Questions</PageTitle>
-    <PageColor>0xcccc 0xcccc 0xffff| 0xffff 0x0</PageColor>
+    <PageColor>0xcccc 0xcccc 0xffff| 0xffff 0xffffffff</PageColor>
     <PageDisplayPageInfo>0 </PageDisplayPageInfo>
     <PagePageInfo></PagePageInfo>
     <PageGraphPaper>0 </PageGraphPaper>
     <PageGraphPaperLineSpacing>0.25 </PageGraphPaperLineSpacing>
-    <PageGraphPaperLineColor>0x8484 0x7070 0xffff| 0xffff 0x0</PageGraphPaperLineColor>
-    <PageReplayWindowPosition>0 85 169 627 462</PageReplayWindowPosition>
+    <PageGraphPaperLineColor>0x8484 0x7070 0xffff| 0xffff 0xffffffff</PageGraphPaperLineColor>
+    <PageReplayWindowPosition>0 34 49 308 203</PageReplayWindowPosition>
     <PageText>
       <ID>1618 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>0.117708333333 0.148958333333 4.35208333333 5.38333333333 </Bounds>
+      <Bounds>0.150554 0.167923000001 5.56648000001 6.06871000002 </Bounds>
       <SubordinateToID>0</SubordinateToID>
-      <SubordinateOffset>-1.18229166667 -1.15104166667</SubordinateOffset>
+      <SubordinateOffset>-1.18229 -1.15104</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
       <BackgroundColor>0xffff 0xe1e1 0xffff| 0xffff 0xffffffff</BackgroundColor>
       <AddNewData>0</AddNewData>
@@ -1662,7 +1884,7 @@ Matthew Hovis</TextText>
       </StyleRun>
       <StyleRun>
         <Start> 19 </Start>
-        <End> 904 </End>
+        <End> 914 </End>
         <Font>
           <Size> 12 </Size>
           <Justification> 0 </Justification>
@@ -1677,7 +1899,7 @@ Matthew Hovis</TextText>
       <TextMakeAllTextVisible> 1 </TextMakeAllTextVisible>
     </PageText>
   </Page>
-  <CurrentPageIndex>0</CurrentPageIndex>
+  <CurrentPageIndex>5</CurrentPageIndex>
   <DataSet>
     <ID>113 </ID>
     <BroadcastTo>6 107 177 217 238 269 1159 </BroadcastTo>
@@ -1751,7 +1973,7 @@ Matthew Hovis</TextText>
       <ColumnLastDataCollectedMode>0</ColumnLastDataCollectedMode>
       <ColumnGroupID>103</ColumnGroupID>
       <ColumnCells>
-Z1 2:fluk meter
+Z1 2:fluke meter
 Z1 2:logger
 Z1 2:color code
 Z1 2:python
@@ -1763,7 +1985,7 @@ Z1 2:python
       <Visible>1</Visible>
       <DataObjectName>2 Series R_eq</DataObjectName>
       <DataObjectShortName>2SR_eq</DataObjectShortName>
-      <DataObjectColor>0xffff 0x7f7f 0x0| 0xffff 0x0</DataObjectColor>
+      <DataObjectColor>0xffff 0x7f7f 0x0| 0xffff 0xffffffff</DataObjectColor>
       <DataObjectDataSource>0</DataObjectDataSource>
       <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
       <DataObjectPrecision>2</DataObjectPrecision>
@@ -1819,7 +2041,7 @@ Z1 2:python
       <Visible>1</Visible>
       <DataObjectName>3 series R_eq</DataObjectName>
       <DataObjectShortName>3SR_eq</DataObjectShortName>
-      <DataObjectColor>0xcccc 0x0 0xffff| 0xffff 0x0</DataObjectColor>
+      <DataObjectColor>0xcccc 0x0 0xffff| 0xffff 0xffffffff</DataObjectColor>
       <DataObjectDataSource>0</DataObjectDataSource>
       <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
       <DataObjectPrecision>1</DataObjectPrecision>
@@ -1875,7 +2097,7 @@ Z1 2:python
       <Visible>1</Visible>
       <DataObjectName>2 Parallel R_eq</DataObjectName>
       <DataObjectShortName>2PR_eq</DataObjectShortName>
-      <DataObjectColor>0xffff 0x0 0x3333| 0xffff 0x0</DataObjectColor>
+      <DataObjectColor>0xffff 0x0 0x3333| 0xffff 0xffffffff</DataObjectColor>
       <DataObjectDataSource>0</DataObjectDataSource>
       <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
       <DataObjectPrecision>4</DataObjectPrecision>
@@ -1931,7 +2153,7 @@ Z1 2:python
       <Visible>1</Visible>
       <DataObjectName>3 Parallel R_eq</DataObjectName>
       <DataObjectShortName>3PR_eq</DataObjectShortName>
-      <DataObjectColor>0x0 0x0 0xffff| 0xffff 0x0</DataObjectColor>
+      <DataObjectColor>0x0 0x0 0xffff| 0xffff 0xffffffff</DataObjectColor>
       <DataObjectDataSource>0</DataObjectDataSource>
       <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
       <DataObjectPrecision>4</DataObjectPrecision>
@@ -3150,8 +3372,8 @@ Z1 2:python
       <FunctionModelString>m*x+b</FunctionModelString>
       <FunctionModelLinear>1</FunctionModelLinear>
       <FunctionModelType>1</FunctionModelType>
-      <FunctionCoefficientArray>2 60.2647 -0.0204071 </FunctionCoefficientArray>
-      <FunctionCoefficientUncertaintyArray>2 0.0568761 0.003239 </FunctionCoefficientUncertaintyArray>
+      <FunctionCoefficientArray>2 60.2128739942 -0.0170053379063 </FunctionCoefficientArray>
+      <FunctionCoefficientUncertaintyArray>2 0.0564515826812 0.00323536069284 </FunctionCoefficientUncertaintyArray>
       <FunctionModelParameterNames>m
 b
 </FunctionModelParameterNames>
@@ -3174,8 +3396,8 @@ b
       <FunctionModelString>m*x+b</FunctionModelString>
       <FunctionModelLinear>1</FunctionModelLinear>
       <FunctionModelType>1</FunctionModelType>
-      <FunctionCoefficientArray>2 126.37 0.00411932 </FunctionCoefficientArray>
-      <FunctionCoefficientUncertaintyArray>2 0.11706 0.00291948 </FunctionCoefficientUncertaintyArray>
+      <FunctionCoefficientArray>2 126.410410649 0.00291312672344 </FunctionCoefficientArray>
+      <FunctionCoefficientUncertaintyArray>2 0.121343570086 0.00306131058767 </FunctionCoefficientUncertaintyArray>
       <FunctionModelParameterNames>m
 b
 </FunctionModelParameterNames>
@@ -3222,8 +3444,8 @@ b
       <FunctionModelString>m*x+b</FunctionModelString>
       <FunctionModelLinear>1</FunctionModelLinear>
       <FunctionModelType>1</FunctionModelType>
-      <FunctionCoefficientArray>2 8.16263 0.00131428 </FunctionCoefficientArray>
-      <FunctionCoefficientUncertaintyArray>2 0.00246514 0.000772958 </FunctionCoefficientUncertaintyArray>
+      <FunctionCoefficientArray>2 8.16318434403 0.00121059371002 </FunctionCoefficientArray>
+      <FunctionCoefficientUncertaintyArray>2 0.00247140478158 0.000771049740267 </FunctionCoefficientUncertaintyArray>
       <FunctionModelParameterNames>m
 b
 </FunctionModelParameterNames>
@@ -3246,8 +3468,8 @@ b
       <FunctionModelString>m*x+b</FunctionModelString>
       <FunctionModelLinear>1</FunctionModelLinear>
       <FunctionModelType>1</FunctionModelType>
-      <FunctionCoefficientArray>2 7.1959 0.000456046 </FunctionCoefficientArray>
-      <FunctionCoefficientUncertaintyArray>2 0.0015933 0.000605324 </FunctionCoefficientUncertaintyArray>
+      <FunctionCoefficientArray>2 7.19590414686 0.000456046493736 </FunctionCoefficientArray>
+      <FunctionCoefficientUncertaintyArray>2 0.00159330315102 0.000605323558604 </FunctionCoefficientUncertaintyArray>
       <FunctionModelParameterNames>m
 b
 </FunctionModelParameterNames>
@@ -5840,7 +6062,7 @@ b
 0.224
 0.028
 2.55
-0.11706
+0.05688
 </ColumnCells>
     </DataColumn>
     <DataColumn>
@@ -6017,7 +6239,7 @@ b
       <Visible>1</Visible>
       <DataObjectName>Method</DataObjectName>
       <DataObjectShortName></DataObjectShortName>
-      <DataObjectColor>0xdada 0xa5a5 0x2020| 0xffff 0x0</DataObjectColor>
+      <DataObjectColor>0xdada 0xa5a5 0x2020| 0xffff 0xffffffff</DataObjectColor>
       <DataObjectDataSource>0</DataObjectDataSource>
       <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
       <DataObjectPrecision>0</DataObjectPrecision>
